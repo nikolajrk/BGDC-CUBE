@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-31 20:14:27
+	time_modified: 2025-09-13 01:55:24
+	name: Power Couple
+	casting_cost: WU
+	image: image85.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature </word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Programmering</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>3D</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		This creature can count for 2 different creatures, when determining if you have a full group.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Jeg</error-spelling:en_US> er <error-spelling:en_US>pænt</error-spelling:en_US> <error-spelling:en_US>sikker</error-spelling:en_US> <error-spelling:en_US>på</error-spelling:en_US> at X <error-spelling:en_US>og</error-spelling:en_US> Y er <error-spelling:en_US>kærester</error-spelling:en_US> (<error-spelling:en_US>Det</error-spelling:en_US> var <error-spelling:en_US>de</error-spelling:en_US> <error-spelling:en_US>ikke</error-spelling:en_US>)” — Common <error-spelling:en_US>arrangør</error-spelling:en_US> mistake.</i-flavor>
+	power: 2
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

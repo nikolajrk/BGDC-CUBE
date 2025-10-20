@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-27 20:16:27
+	time_modified: 2025-10-20 07:45:47
+	name: Fuck, Budgettet?
+	casting_cost: 2B
+	image: image16.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Each player discards a card, and sacrifices one creature, land, enchantment, artifact, and planeswalker.
+	flavor_text:
+		<i-flavor>“Vi <error-spelling:en_US>har</error-spelling:en_US> <error-spelling:en_US>lige</error-spelling:en_US> <error-spelling:en_US>været</error-spelling:en_US> til <error-spelling:en_US>møde</error-spelling:en_US> med <error-spelling:en_US>DK</error-spelling:en_US>...”
+		- <error-spelling:en_US>Koordinatorene</error-spelling:en_US>, 3 <error-spelling:en_US>uger</error-spelling:en_US> <error-spelling:en_US>før</error-spelling:en_US> <error-spelling:en_US>GDC</error-spelling:en_US> 2025.</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

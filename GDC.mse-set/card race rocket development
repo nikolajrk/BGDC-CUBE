@@ -1,0 +1,60 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: false
+	notes: 
+	time_created: 2025-08-30 17:14:12
+	time_modified: 2025-10-19 20:05:52
+	extra_data:
+		magic-m15-mainframe-dfc:
+			front_color_hint: De
+	special_text:
+		<i-auto>(You may tap a creature that shares a type with a task, to develop it as a sorcery. When all tasks are developed, transform.)</i-auto>
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:</b>
+		When this is developed, create a 0/1 Gold Star Token.
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:</b>
+		When this is developed, create a 0/1 Gold Star Token.
+		<b>3D:</b>
+		When this is developed, create a 0/1 Gold Star Token.
+		<b>2D:</b>
+		When this is developed, create a 0/1 Gold Star Token.
+	card_color_2: red, artifact, horizontal
+	name: Race Rocket Development
+	name_2: Race Rocket
+	casting_cost: RR
+	image: image51.png
+	image_2: image_21.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-artifact>Game</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: <word-list-race-en>Rocket</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_3: 
+	sub_type_4: 
+	chapter_text: <i-auto>(You may tap a creature that shares a type with a task, to develop it as a sorcery. When all tasks are developed, transform.)</i-auto>
+	rule_text: 
+	rule_text_2:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When this attacks, you may sacrifice a Gold Star. If you do, draw a card, and put a +1/+1 counter on Race Rocket.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor>“<error-spelling:en_US>Det</error-spelling:en_US> var <error-spelling:en_US>virkelig</error-spelling:en_US> <error-spelling:en_US>et</error-spelling:en_US> <error-spelling:en_US>godt</error-spelling:en_US> <error-spelling:en_US>spil</error-spelling:en_US>” — Thomas, om <error-spelling:en_US>hans</error-spelling:en_US> <error-spelling:en_US>eget</error-spelling:en_US> <error-spelling:en_US>spil</i-flavor></error-spelling:en_US>
+	level_1_text:
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:</b>
+		When this is developed, create a 0/1 Gold Star Token.
+	level_2_text:
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:</b>
+		When this is developed, create a 0/1 Gold Star Token.
+	level_3_text:
+		<b>3D:</b>
+		When this is developed, create a 0/1 Gold Star Token.
+	level_4_text:
+		<b>2D:</b>
+		When this is developed, create a 0/1 Gold Star Token.
+	power_2: 3
+	toughness_2: 3
+	illustrator: ABS version
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

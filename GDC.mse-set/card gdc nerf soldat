@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-10-03 20:55:25
+	time_modified: 2025-08-29 14:52:17
+	name: GDC NERF Soldat
+	casting_cost: R
+	image: image65
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature </word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<sym-auto>T</sym-auto>: Put a NERF Counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>GDC</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> NERF <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Soldat</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		<sym-auto>T</sym-auto>, Remove a NERF Counter: Deal 1 damage to any target. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

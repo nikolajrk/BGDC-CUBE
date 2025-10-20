@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-13 01:56:15
+	time_modified: 2025-09-28 22:24:02
+	name: Vegetar på GDC
+	casting_cost: G
+	image: image117.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		At the beginning of your first main phase, choose one:
+		— Gain 1 life. <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Rødbedebøf</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>
+		— Add <sym>G</sym> <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bagt</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kartoffel</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>
+	flavor_text: <i-flavor>“<error-spelling:en_US>Det</error-spelling:en_US> er <error-spelling:en_US>som</error-spelling:en_US> om <error-spelling:en_US>jyder</error-spelling:en_US> <error-spelling:en_US>kun</error-spelling:en_US> <error-spelling:en_US>tror</error-spelling:en_US> <error-spelling:en_US>der</error-spelling:en_US> <error-spelling:en_US>findes</error-spelling:en_US> <error-spelling:en_US>kartoffler</error-spelling:en_US>, til folk <error-spelling:en_US>som</error-spelling:en_US> er <error-spelling:en_US>vegetare</error-spelling:en_US>...” — August, probably</i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

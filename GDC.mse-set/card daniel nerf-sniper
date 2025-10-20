@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-26 07:06:56
+	time_modified: 2025-10-19 20:26:00
+	name: Daniel, NERF-sniper
+	casting_cost: BR
+	image: image25
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<sym-auto>1</sym-auto>: Move a counter onto Daniel, NERF-Sniper from another creature you control. It becomes a NERF counter.
+		Remove X NERF counters, <sym-auto>T</sym-auto>: Deal X damage to any target. Activate only as a sorcery
+	flavor_text: <i-flavor>“Den her er for magic i <error-spelling:en_US>går</error-spelling:en_US>!” - <error-spelling:en_US>Deltager</error-spelling:en_US>, <error-spelling:en_US>øjeblikket</error-spelling:en_US> <error-spelling:en_US>før</error-spelling:en_US> <error-spelling:en_US>de</error-spelling:en_US> <error-spelling:en_US>executer</error-spelling:en_US> Daniel</i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

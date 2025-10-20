@@ -1,0 +1,451 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	artist: NRO
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: 
+styling:
+	magic-DayNight:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-classicshifted: text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-classicshifted-duplex:
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-classicshifted-flip: text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-classicshifted-split: text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-genevensis-10-saga:
+		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
+	magic-genevensis-11-class:
+		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
+	magic-m15:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-adventure:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-aftermath: text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-altered:
+		frames: 
+		other_options: auto nyx crowns, pride pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-augment:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-classicshifted:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-clearartifact:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-compleated-planeswalkers:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-devoid:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-doublefaced-leveler:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-dungeons:
+		room_counts: 2,2
+		room_heights: 
+		level_2_long_rooms: 
+		level_0_dead_ends: 12
+		level_1_dead_ends: 12
+		level_2_dead_ends: 
+		level_1_exits: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-flip:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-future-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-godzilla:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-godzilla-saga:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-grayscale:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-leveler:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-leveler-improved:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-dfc:
+		front_style: 4 box saga
+		defaults: for loyalty costs, saga chapters, leveler arrows and stripes, use -N to move up
+		move_loyalty_costs: 1000,1000,1000,1000,
+		front_font_cap: 
+		shrink_name_text: 
+		other_options: use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-planeswalker:
+		other_options: un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-metropolis:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-nameonright:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-nonbasic-lands:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-outlaws-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeshifted:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeshifted-duplex:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeshifted-leveler:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeshifted-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeshifted-split:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker-grayscale:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker-pokemon:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-saga:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-split:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-split-fusable:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-tapped-FULLART: text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-textless-land: overlay: 
+	magic-m15-ttk-conspiracy:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-ttk-frames:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15classic-hires:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15classic-walker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+include_file: card sommermøde
+include_file: card lena food girl
+include_file: card barbie-tank
+include_file: card disco-kran
+include_file: card anti-anti demonstration
+include_file: card maxime pride tower
+include_file: card katrine jovial dancer
+include_file: card daniel water boy
+include_file: card sara pride innkeeper
+include_file: card thim pride unicorn
+include_file: card lena grillmester
+include_file: card felix grillmester
+include_file: card grillmesterens tallerken
+include_file: card katrine grillmester
+include_file: card maxime grillmester
+include_file: card pride meet-up
+include_file: card balloon arch
+include_file: card lohse mikkel-bae
+include_file: card laurits mikkelsbane
+include_file: card e-girl bathwater
+include_file: card korncirkler på marken
+include_file: card felix krukkebeundrer
+include_file: card aske war veteran
+include_file: card robbie nerf-ammo-hoarder
+include_file: card daniel nerf-sniper
+include_file: card thim blinded by nerf
+include_file: card robbie the mad drafter
+include_file: card daniel den travle tekniske
+include_file: card thim faglig far
+include_file: card mentorbat
+include_file: card signe yeah slay
+include_file: card katrine bilags checker
+include_file: card isak nerf officér
+include_file: card nerf wielding arrangør
+include_file: card august nerf specialist
+include_file: card joachim gulper of monners
+include_file: card ak aka anne-kristine
+include_file: card allan keeper of coin
+include_file: card programming lesson
+include_file: card 2d lesson
+include_file: card 3d lesson
+include_file: card dance lesson
+include_file: card chancen
+include_file: card fællesbillede
+include_file: card forgotten bilag
+include_file: card fortvivlet deltager
+include_file: card umotiveret deltager
+include_file: card gruppebillede
+include_file: card arrangørfest
+include_file: card 3d hjælper
+include_file: card aske nerf kvartermester
+include_file: card merge problems
+include_file: card teknisk hjælp
+include_file: card thomas the kind of returned
+include_file: card mentor
+include_file: card nikolaj nerf hoarder
+include_file: card christian nerf collector
+include_file: card nerf gun
+include_file: card nerf sidevåben
+include_file: card nikolaj collector of cups
+include_file: card gdc 2023
+include_file: card gdc nerf soldat
+include_file: card nerf arsenal
+include_file: card nerf modder
+include_file: card lugi gugi mario
+include_file: card ak master of fest-pynt
+include_file: card bilka to-go
+include_file: card bortkommen matcamper
+include_file: card christian trader
+include_file: card correction
+include_file: card daniel decaying modeler
+include_file: card strålende visionær
+include_file: card taktisk lur
+include_file: card tur til føtex
+include_file: card felix space scientist
+include_file: card august helmsman
+include_file: card isak kaptajn
+include_file: card robbie space admiral
+include_file: card malte space engineer
+include_file: card nikolaj relay officer
+include_file: card atlantis space ship
+include_file: card sniper space ship
+include_file: card maverick space ship
+include_file: card christian weapons master
+include_file: card bilag
+include_file: card august foley expert
+include_file: card foley lesson
+include_file: card foley optager
+include_file: card lyd innovatør
+include_file: card christian den første måge
+include_file: card opvask
+include_file: card teknisk ansvarspost
+include_file: card klikeleder
+include_file: card mikkel master of no names
+include_file: card ambitiøs lydmager
+include_file: card koordinatoren der var lovet
+include_file: card jesper the honorary deltager
+include_file: card laurits sløj
+include_file: card nikolaj deltagerhyrde
+include_file: card award
+include_file: card snickers Æske
+include_file: card blender ekspert
+include_file: card kasper duke of monnerburg
+include_file: card gruppedannelsen
+include_file: card gugkæden
+include_file: card hjælpeunderviser
+include_file: card faglig mentor
+include_file: card et hurtigt spil commander
+include_file: card sara koordinator
+include_file: card kasserer
+include_file: card festmåltid
+include_file: card felix master of the food order
+include_file: card deltager army
+include_file: card ambitiøs 2der
+include_file: card ambitiøs 3der
+include_file: card cheatsheet
+include_file: card arbejdsweekend
+include_file: card arrangør camp
+include_file: card bad commit
+include_file: card maxime
+include_file: card antiautoritær deltager
+include_file: card førstegangs programmør
+include_file: card ambitiøs programmør
+include_file: card nikolajs klodsmajor
+include_file: card daniel sleepless one
+include_file: card kasserer på sidste år
+include_file: card arrangør bus
+include_file: card koordinatorernes veto
+include_file: card nerf dart
+include_file: card skraldet nerf med skjold
+include_file: card tømmermænd
+include_file: card emil solstråle
+include_file: card i høet med en drink
+include_file: card overkvalificeret deltager
+include_file: card dont drink and drive
+include_file: card oleg gysermester
+include_file: card kasper gysermester
+include_file: card mikkel hard worker
+include_file: card sportscola
+include_file: card faglig far
+include_file: card merge conflict
+include_file: card fuck budgettet
+include_file: card thirst besked i general
+include_file: card simone bilags checker
+include_file: card the perfect group
+include_file: card shitty off-brand nerf gun
+include_file: card smash or pass
+include_file: card sportscola vognen
+include_file: card fuck budgettet.1
+include_file: card aleg praktisk redningsmand
+include_file: card arrangør lounge
+include_file: card printer rummet
+include_file: card festlokalet
+include_file: card sandwich-året
+include_file: card monner
+include_file: card epic deckbox
+include_file: card sophie miss tilid
+include_file: card lukas deltagerens skjold
+include_file: card er du på niveau
+include_file: card ninja
+include_file: card lyd
+include_file: card donkey-kong maskinerne
+include_file: card omvendt magic
+include_file: card ubåd
+include_file: card afrydning
+include_file: card lukas 2d underviser
+include_file: card a.p. møllers vagt
+include_file: card aktivitetsdirigent
+include_file: card akut indkøb
+include_file: card johanne award show vært
+include_file: card computer-heist
+include_file: card no-name
+include_file: card stacia cosplayer
+include_file: card race rocket development
+include_file: card grupperum
+include_file: card teknik-rummet
+include_file: card kantinen
+include_file: card føtex
+include_file: card f-klubben
+include_file: card brætspilslageret
+include_file: card sportscola.1
+include_file: card off-brand-dræber-nerf-gun
+include_file: card power couple
+include_file: card amalie 3d-ansvarlig der var lovet
+include_file: card louise early bird
+include_file: card thim fuglefanger
+include_file: card ubådsspillet 2021
+include_file: card guys budgettet er fucked
+include_file: card salatbarsprep
+include_file: card ivana kattedræber
+include_file: card david rising programmør
+include_file: card foredrag
+include_file: card casper
+include_file: card vi skal lige ind og printe
+include_file: card har jeg ikke set dig før
+include_file: card shotgun-roulette
+include_file: card lampemanden gametest
+include_file: card fish
+include_file: card fish.1
+include_file: card cosplaying deltager
+include_file: card felix faglig søn
+include_file: card uddannelses-messe
+include_file: card momoh missing in action
+include_file: card kødbolle spillet
+include_file: card gabriel mundtrumpet
+include_file: card first person tower defense
+include_file: card lampemanden spillet
+include_file: card dysfunktional gruppes spil
+include_file: card sigma gryden
+include_file: card underpaid
+include_file: card katrine koordinator
+include_file: card gammel arrangør på besøg
+include_file: card slacker-gruppen
+include_file: card tier lists
+include_file: card lenas regnbuekage
+include_file: card lena praktisk champ
+include_file: card bird
+include_file: card simone deltagerkontakt
+include_file: card laust den glemte faglige far
+include_file: card daniels bil
+include_file: card praktisk ansvarspost
+include_file: card christian hård kasserer
+include_file: card lan efter gdc
+include_file: card papirflyver-golf
+include_file: card balade
+include_file: card plastik service
+include_file: card aske festspillenes mester
+include_file: card dagseddel
+include_file: card quality street tierliste
+include_file: card vegetar på gdc
+include_file: card oleg og kasper sportscoladuo
+include_file: card allan faglig bedstefar
+include_file: card no-name.1
+include_file: card mugriel
+include_file: card no-name.2
+include_file: card no-name.3
+include_file: card traumatiseret deltager
+include_file: card uforsigtig deltager
+include_file: card pap-tanken
+include_file: card spil bordfodbold
+include_file: card christian inteviewer
+include_file: card intro-slides
+include_file: card deltager der kun vil programmere
+include_file: card git-lesson
+include_file: card aske skuespiller
+include_file: card laurits praktisk ansvarlig
+include_file: card joachim teknisk mester
+include_file: card robbie lyd-mesteren
+include_file: card pac-man
+include_file: card maxime creator of tanks
+include_file: card barvagt
+include_file: card loopin luie
+include_file: card den lyssky slushicemaskine
+include_file: card tobias deltager
+include_file: card drage spillet
+include_file: card kim gistrup the betrayer
+include_file: card merchansvarlig
+include_file: card john gistrup
+include_file: card exportdag
+include_file: card overnatning hos lokal arrangør
+include_file: card nissebræk-spillet
+include_file: card no-name.4
+include_file: card sand
+include_file: card gdc dnd
+include_file: card online gdc 2020
+include_file: card joachim bar-kong
+include_file: card mao
+include_file: card felix pride-jungle
+include_file: card gabriel pride-blotter
+include_file: card aske pride-bagmand
+include_file: card malte pride-bagmand
+include_file: card no-name.5
+include_file: card no-name.6
+include_file: card no-name.7
+include_file: card no-name.8
+include_file: card no-name.9
+include_file: card no-name.10
+include_file: card gdc 2083
+include_file: card no-name.11
+include_file: card slik-poker
+include_file: card duerne slipper ind
+include_file: card tryk-tema
+include_file: card programmering
+include_file: card 3d
+include_file: card 2d
+include_file: card no-name.12
+version_control:
+	type: none
+apprentice_code: 

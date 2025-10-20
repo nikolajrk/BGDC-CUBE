@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-10 22:29:23
+	time_modified: 2025-09-12 22:37:16
+	name: Social Ansvarspost
+	casting_cost: 1R
+	image: image102.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>Arrangør</param-name></key></nospellcheck></kw-a>
+		Enchanted creature has “<sym-auto>T</sym-auto>: <kw-A><nospellcheck><key>Goad</key></nospellcheck> target creature.<atom-reminder-action> <i-auto>(Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

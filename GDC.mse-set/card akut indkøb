@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-29 16:07:03
+	time_modified: 2025-08-31 19:34:53
+	name: Akut Indkøb
+	casting_cost: WB
+	image: image56.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Create 4 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bilag</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+	flavor_text: <i-flavor>“Er <error-spelling:en_US>der</error-spelling:en_US> <error-spelling:en_US>nogen</error-spelling:en_US> <error-spelling:en_US>der</error-spelling:en_US> <error-spelling:en_US>kan</error-spelling:en_US> <error-spelling:en_US>køre</error-spelling:en_US> <error-spelling:en_US>ud</error-spelling:en_US> <error-spelling:en_US>og</error-spelling:en_US> <error-spelling:en_US>købe</error-spelling:en_US> en <error-spelling:en_US>luftmadras</error-spelling:en_US>, en <error-spelling:en_US>pakke</error-spelling:en_US> <error-spelling:en_US>ørepropper</error-spelling:en_US>, <error-spelling:en_US>tre</error-spelling:en_US> <error-spelling:en_US>ruller</error-spelling:en_US> <error-spelling:en_US>gavepapir</error-spelling:en_US> <error-spelling:en_US>og</error-spelling:en_US> en <error-spelling:en_US>cocio</error-spelling:en_US>?”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

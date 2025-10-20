@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-29 14:54:51
+	time_modified: 2025-08-31 20:15:44
+	name: Ubåd
+	casting_cost: 2R
+	image: image62.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Army</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		This enters with five +1/+1 counters on it.<soft-line>
+		<soft-line>
+		When this attacks, remove a +1/+1 counter from it.</soft-line></soft-line>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

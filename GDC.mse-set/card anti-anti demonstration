@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-25 13:45:20
+	time_modified: 2023-10-22 17:15:28
+	name: Anti-Anti demonstration
+	casting_cost: 3U
+	image: image4
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		<kw-0><nospellcheck><key>Split Second</key></nospellcheck></kw-0>
+		Counter target spell. If the target spell contains the phrase “counter target spell”, this spell cost <sym-auto>0</sym-auto> to cast.
+		Give a creature +1/+1 until end of turn, for each color of mana used to cast this spell.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Mumle</error-spelling:en_US> <error-spelling:en_US>Mumle</error-spelling:en_US>... Jesus... <error-spelling:en_US>Mumle</error-spelling:en_US>”</i-flavor>
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

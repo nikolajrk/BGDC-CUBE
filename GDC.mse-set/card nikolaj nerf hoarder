@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		frames: fullart
+		other_options: auto nyx crowns, pride pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-09-28 16:32:29
+	time_modified: 2025-10-19 20:23:30
+	name: Nikolaj, NERF Hoarder
+	casting_cost: XBR
+	image: image59
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature </word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nikolaj</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, NERF Hoarder enters, create X NERF Gun tokens.
+		<sym-auto>T</sym-auto>: Deal 1 damage to any target. Activate only as a sorcery.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Kom</error-spelling:en_US> <error-spelling:en_US>og</error-spelling:en_US> <error-spelling:en_US>se</error-spelling:en_US> min <error-spelling:en_US>kuffert</error-spelling:en_US>”</i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-12 23:05:11
+	time_modified: 2025-09-12 23:13:05
+	name: Christian, Bilagsglemmer
+	casting_cost: 4WB
+	image: image105.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Kasserer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kasserer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control has <kw-A><nospellcheck><key>extort</key></nospellcheck>. <atom-reminder-expert> <i-auto>(Whenever you cast a spell, you may pay <sym>W/B</sym>. If you do, each opponent loses 1 life and you gain that much life.)</i-auto></atom-reminder-expert></kw-A>
+		Sacrifice a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bilag</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Deal 1 damage to each opponent, and you gain that much life.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Homie</error-spelling:en_US>, <error-spelling:en_US>det</error-spelling:en_US> var i 18 <error-spelling:en_US>det</error-spelling:en_US> <error-spelling:en_US>skete</error-spelling:en_US>, <error-spelling:en_US>det</error-spelling:en_US> er 7 <error-spelling:en_US>år</error-spelling:en_US> <error-spelling:en_US>siden</error-spelling:en_US>” — Christian om “episode”.</i-flavor>
+	power: 4
+	toughness: 6
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

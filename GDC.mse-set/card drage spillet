@@ -1,0 +1,60 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: false
+	notes: 
+	time_created: 2025-08-30 17:14:12
+	time_modified: 2025-10-19 20:05:22
+	special_text:
+		<i-auto>(You may tap a creature that shares a type with a task, to develop it as a sorcery. When all tasks are developed, transform.)</i-auto>
+		<b>3D:</b>
+		When this is developed, create a 3/3 Dragon.
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: </b>
+		Dragons you control have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</b></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:
+		Dragons you control have <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
+		<b>2D:
+		</b>Dragons you control have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	card_color: artifact, multicolor
+	card_color_2: white, artifact, horizontal
+	name: Drage spillet
+	name_2: Press Q for restart!
+	casting_cost: WW
+	image: image60.png
+	image_2: image_29.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Game</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: <word-list-artifact>Game</word-list-artifact> <soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_3: 
+	sub_type_4: 
+	chapter_text: <i-auto>(You may tap a creature that shares a type with a task, to develop it as a sorcery. When all tasks are developed, transform.)</i-auto>
+	rule_text: 
+	rule_text_2:
+		Dragons you control have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		<sym-auto>2</sym-auto>: If you do not control a Dragon, create a 3/3 Dragon creature token.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	level_1_text:
+		<b>3D:</b>
+		When this is developed, create a 3/3 Dragon.
+	level_2_text:
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: </b>
+		Dragons you control have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	level_3_text:
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</b></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:
+		Dragons you control have <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
+	level_4_text:
+		<b>2D:
+		</b>Dragons you control have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	power: 
+	power_2: 
+	toughness: 
+	toughness_2: 
+	illustrator: ABS version
+	card_code_text: - Art by Nicholas
+	card_code_text_2: 
+	card_code_text_3: 

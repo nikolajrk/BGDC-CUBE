@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-10 22:29:23
+	time_modified: 2025-10-19 20:09:16
+	name: Tier Lists
+	casting_cost: 4RW
+	image: image96.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		At the beginning of your end step, gain a <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> Counter, then choose one:
+		<i>“S”</i> — For each <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter you have, put a +1/+1 counter on target creature.
+		<i>“F”</i> — For each <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter you have deal 1 damage to target creature.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

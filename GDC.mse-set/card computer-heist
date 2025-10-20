@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-29 16:39:51
+	time_modified: 2025-09-04 17:56:24
+	name: Computer-heist
+	casting_cost: 1B
+	image: image70.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Gain control of up to 2 target artifacts until end of turn. Untap them.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Alle</error-spelling:en_US> <error-spelling:en_US>computerne</error-spelling:en_US> er <error-spelling:en_US>VÆK</error-spelling:en_US>!!” — <error-spelling:en_US>Aske</error-spelling:en_US>, til Daniel, <error-spelling:en_US>da</error-spelling:en_US> 2 <error-spelling:en_US>bærbare</error-spelling:en_US> var “<error-spelling:en_US>lånt</error-spelling:en_US>”...</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

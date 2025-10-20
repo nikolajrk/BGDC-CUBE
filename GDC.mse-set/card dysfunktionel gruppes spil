@@ -1,0 +1,53 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-dungeons
+	stylesheet_version: 2024-06-06
+	has_styling: true
+	styling_data:
+		room_counts: 2,2
+		room_heights: 
+		reminder_box: yes
+		level_2_long_rooms: 
+		level_0_dead_ends: 12
+		level_1_dead_ends: 12
+		level_2_dead_ends: 12
+		level_3_dead_ends: 1
+		level_1_exits: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: 
+	time_created: 2025-08-29 14:27:05
+	time_modified: 2025-08-29 23:24:31
+	extra_data:
+		magic-m15-dungeons:
+			reminder: <b>Artifact — Game</b>
+			arrow_11: none
+			arrow_12: none
+	card_color: white, green, artifact, horizontal
+	name: Dysfunktionel Gruppes spil
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<font:Beleren Bold><b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Tilid</error-spelling:en_US:/magic.mse-game/dictionary/magic-words></font>
+		</b>When this is developed, tap any number of target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltagere</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	level_1_text:
+		<font:Beleren Bold><b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Tilid</error-spelling:en_US:/magic.mse-game/dictionary/magic-words></font>
+		</b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures you control have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+	level_3_text:
+		<font:Beleren Bold><b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Koordinator</error-spelling:en_US:/magic.mse-game/dictionary/magic-words></font>
+		</b>When this is developed, exile target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+	level_4_text:
+		<font:Beleren Bold><b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Koordinator</error-spelling:en_US:/magic.mse-game/dictionary/magic-words></font>
+		</b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures you control have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	level_6_text: When this is fully developed, create a 0/1 Cube token.
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

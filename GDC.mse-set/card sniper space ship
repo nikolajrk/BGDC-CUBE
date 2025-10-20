@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		frames: vehicle
+		other_options: auto nyx crowns, pride pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-10-22 16:53:02
+	time_modified: 2025-10-19 20:15:23
+	name: Sniper, Space ship
+	casting_cost: 1BG
+	image: image79
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		For each creature that crews this, choose one:
+		- <i>“Tactical”</i>: This looses <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> until end of turn.<soft-line>
+		
+		-</soft-line><i>”Engineering+</i>”: Put a +1/+1 counter on this, or this gets +2/+2 until end of turn..
+		- <i>“Operations”</i>: Choose a color. This gets <kw-0><nospellcheck><key>protection from <param-name>that color until end of turn.</param-name></key></nospellcheck></kw-0>
+		<kw-0><nospellcheck><key>Crew <param-number>3</param-number></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

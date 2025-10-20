@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-leveler
+	stylesheet_version: 2024-06-07
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-11-04 10:50:57
+	time_modified: 2025-10-20 07:43:29
+	special_text: 
+	name: Ambitiøs Lydmager
+	casting_cost: W
+	image: image133.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Lyd</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Level Up: <sym>1W</sym>
+	flavor_text: <i-flavor></i-flavor>
+	level_0: 0-1
+	level_1: 2-3
+	level_2: 4+
+	level_2_text: <kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+	level_3_text: <kw-0><nospellcheck><key>Mentor</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>double strike</key></nospellcheck></kw-0> This is a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> instead of a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+	power: 1
+	power_2: 2
+	power_3: 5
+	toughness: 1
+	toughness_2: 2
+	toughness_3: 5
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

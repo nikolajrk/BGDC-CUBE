@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-31 20:25:09
+	time_modified: 2025-09-17 17:54:21
+	name: Amalie, 3D-ansvarlig der var lovet
+	casting_cost: UU
+	image: image124.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>3D</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Skulk</key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked by creatures with greater power.)</i-auto></atom-reminder-expert></kw-A>
+		3D creatures you control have <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
+		<sym-auto>UUU</sym-auto>: This becomes a 1/6 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> 3D.
+	flavor_text: <i-flavor>“Hun <error-spelling:en_US>kunne</error-spelling:en_US> <error-spelling:en_US>shortcutsne</error-spelling:en_US> <error-spelling:en_US>meget</error-spelling:en_US> <error-spelling:en_US>bedre</error-spelling:en_US> end <error-spelling:en_US>alle</error-spelling:en_US> <error-spelling:en_US>os</error-spelling:en_US> <error-spelling:en_US>undervisere</error-spelling:en_US>” — <error-spelling:en_US>Isak</error-spelling:en_US>, 2023</i-flavor>
+	watermark: none
+	power: 1
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

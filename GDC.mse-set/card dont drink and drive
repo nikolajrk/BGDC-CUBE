@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2025-08-27 17:33:43
+	time_modified: 2025-10-20 07:39:22
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		I — Create a Drink. Creatures you control gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		II — You may sacrifice a drink to tap target creature.
+		III — If you control a drink, lose the game. Otherwise, gain a <kw-0><nospellcheck><key>Party</key></nospellcheck></kw-0> Counter.
+	name: Dont Drink and Drive
+	casting_cost: RW
+	image: image9.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: Create a Drink. Creatures you control gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	level_2_text: You may sacrifice a drink to tap target creature.
+	level_3_text: If you control a drink, lose the game. Otherwise, gain a <kw-0><nospellcheck><key>Party</key></nospellcheck></kw-0> Counter.
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

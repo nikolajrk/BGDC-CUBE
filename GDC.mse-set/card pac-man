@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-17 07:25:39
+	time_modified: 2025-10-05 10:01:45
+	name: Pac-Man
+	casting_cost: UR
+	image: image140.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Flip a coin. If you win, target creature you control <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Pac</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-man)</i-auto> deals damage to another target creature <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Spøgelse</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto> equal to its power. If you lose, you may pay <sym-auto>U/R</sym-auto> to repeat the ability. 
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

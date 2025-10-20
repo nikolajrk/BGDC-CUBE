@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		frames: 
+		other_options: auto nyx crowns, pride pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-08-27 17:46:06
+	time_modified: 2025-10-19 20:40:07
+	name: Sportscola
+	image: image13.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this: Roll a D6. until end of turn, target creature gets:
+		1 — +1/+1              4 — <kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		2 — +2/+2              5 — <kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		3 — +3/+3              6 — <kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

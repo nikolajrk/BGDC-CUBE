@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-10-03 21:02:06
+	time_modified: 2025-10-19 20:28:48
+	name: NERF modder
+	casting_cost: R
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature </word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym-auto>T</sym-auto>: Attach target Equipment you control to target creature.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Ja</error-spelling:en_US>, man <error-spelling:en_US>skal</error-spelling:en_US> <error-spelling:en_US>måske</error-spelling:en_US> <error-spelling:en_US>bruge</error-spelling:en_US> <error-spelling:en_US>begge</error-spelling:en_US> <error-spelling:en_US>hænder</error-spelling:en_US> for at <error-spelling:en_US>kunne</error-spelling:en_US> <error-spelling:en_US>genlade</error-spelling:en_US> den nu, men <error-spelling:en_US>prøv</error-spelling:en_US> <error-spelling:en_US>lige</error-spelling:en_US> at <error-spelling:en_US>se</error-spelling:en_US> <error-spelling:en_US>hvor</error-spelling:en_US> <error-spelling:en_US>langt</error-spelling:en_US> den <error-spelling:en_US>skyder</error-spelling:en_US>!”</i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

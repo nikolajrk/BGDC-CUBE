@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 10:38:52
+	time_modified: 2025-10-19 21:14:18
+	name: Teknisk Ansvarspost
+	casting_cost: 3B
+	image: image94
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Affinity for <param-name>artifacts.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This spell costs <sym>1</sym> less to cast for each <param-name>artifacts.</param-name> you control.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Enchant <param-name>Arrangør.</param-name></key></nospellcheck></kw-a>
+		Enchanted creature has “<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice an artifact: Target artifact gains an <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> counter”. It loses all other abilities.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

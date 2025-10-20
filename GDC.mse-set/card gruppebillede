@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		frames: 
+		other_options: auto nyx crowns, pride pinlines
+		d20_dividers: all breaks
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-09-27 00:32:13
+	time_modified: 2025-08-27 16:22:28
+	name: Gruppebillede
+	casting_cost: 1W
+	image: image48
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Choose up to 6 target creatures you control, then roll a d6.
+		</sym>1<sym>: Nothing happens.
+		2-3: Each target creature gains +1/+1 until end of turn.
+		4-5: Each target creature gains +2/+2 until end of turn. 
+		</sym>6<sym>: Each target creature gains two +1/+1 counters. 
+	flavor_text: <i-flavor>“<error-spelling:en_US>Og</error-spelling:en_US> <error-spelling:en_US>så</error-spelling:en_US> <error-spelling:en_US>tager</error-spelling:en_US> vi <error-spelling:en_US>et</error-spelling:en_US> <error-spelling:en_US>fjollebillede</error-spelling:en_US>!”</i-flavor>
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

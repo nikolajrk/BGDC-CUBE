@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-26 07:02:46
+	time_modified: 2025-09-30 21:54:43
+	name: Aske, War Veteran
+	casting_cost: 1BR
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature </word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>2D</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>R<kw-a>each</key></nospellcheck></kw-a>
+		<sym-auto>2R</sym-auto>: Soldier creatures you control have <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor><error-spelling:en_US>Krigse</error-spelling:en_US>....</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

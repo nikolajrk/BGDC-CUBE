@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-27 20:23:35
+	time_modified: 2025-09-04 17:58:41
+	name: Simone, Bilags Checker
+	casting_cost: WB
+	image: image19.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Koordinator</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Kasserer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: If one or more <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bilag</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> would be created, those <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bilag</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> plus an additional <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bilag</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> is created instead.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Nikolaj</error-spelling:en_US>, <error-spelling:en_US>jeg</error-spelling:en_US> <error-spelling:en_US>tror</error-spelling:en_US> <error-spelling:en_US>altså</error-spelling:en_US> <error-spelling:en_US>ikke</error-spelling:en_US> <error-spelling:en_US>det</error-spelling:en_US> sketchy <error-spelling:en_US>slushice</error-spelling:en_US> <error-spelling:en_US>bilag</error-spelling:en_US> <error-spelling:en_US>kommer</error-spelling:en_US> til at <error-spelling:en_US>gå</error-spelling:en_US> <error-spelling:en_US>igennem</error-spelling:en_US>...”</i-flavor>
+	power: 1
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

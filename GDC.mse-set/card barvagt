@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-17 07:25:39
+	time_modified: 2025-10-20 07:40:20
+	name: Barvagt
+	casting_cost: 1GG
+	image: image49.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Praktisk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		While this is untapped, your opponents cannot sacrifice Drinks.
+		<sym-auto>T</sym-auto>: Each player creates a Drink. Activate only as a sorcery.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Nogen</error-spelling:en_US> <error-spelling:en_US>der</error-spelling:en_US> <error-spelling:en_US>ved</error-spelling:en_US> <error-spelling:en_US>hvor</error-spelling:en_US> <error-spelling:en_US>meget</error-spelling:en_US> den <error-spelling:en_US>deltager</error-spelling:en_US> <error-spelling:en_US>har</error-spelling:en_US> <error-spelling:en_US>fået</error-spelling:en_US>?”</i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

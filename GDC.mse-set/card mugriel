@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-16 22:27:45
+	time_modified: 2025-09-25 19:27:48
+	name: Mugriel
+	casting_cost: B
+	image: image109.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		                           <kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

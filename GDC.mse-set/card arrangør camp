@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 18:11:42
+	time_modified: 2025-09-29 22:53:25
+	name: Arrangør Camp
+	casting_cost: 1GGU
+	image: image129
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rule_text:
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Camp enters, create 2 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Sportscola</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> tokens and 2 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Monner</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> tokens.
+		Whenever you control 7 or more <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures and no <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures, you win the game.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

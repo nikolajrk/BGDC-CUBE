@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-01 20:14:00
+	time_modified: 2025-09-30 22:04:50
+	name: Uddannelses-messe
+	casting_cost: 1WU
+	image: image80.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of your end step, for each <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>faggruppe</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> type, if you have an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with that <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>faggruppe</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> type, put a +1/+1 counter on each <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with that type. <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Faggruppe</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> types are <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, 2D or 3D)</i-auto>
+	flavor_text: <i-flavor>“<error-spelling:en_US>Spil</error-spelling:en_US>?... <error-spelling:en_US>Øh</error-spelling:en_US>, <error-spelling:en_US>nej</error-spelling:en_US> <error-spelling:en_US>det</error-spelling:en_US> <error-spelling:en_US>kan</error-spelling:en_US> <error-spelling:en_US>du</error-spelling:en_US> <error-spelling:en_US>ikke</error-spelling:en_US> lave <error-spelling:en_US>på</error-spelling:en_US> Software”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

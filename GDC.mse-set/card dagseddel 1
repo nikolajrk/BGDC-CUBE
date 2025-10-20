@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 10:19:11
+	time_modified: 2025-03-16 22:37:21
+	name: Dagseddel 1
+	casting_cost: 2
+	image: image103
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text: At the beginning of your upkeep, you may choose a color. Until your next turn, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Dagseddel</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> 1 has “<sym-auto>T</sym-auto>: Add one mana of the chosen color”
+	flavor_text: <i-flavor>“Untold knowledge of past, present, and future is found within these pages...”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

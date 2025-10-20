@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-17 07:25:39
+	time_modified: 2025-09-25 19:37:15
+	name: Merchansvarlig
+	casting_cost: 1G
+	image: image101.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, choose one:
+		— Put a +1/+1 counter on it. <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Giv</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>dem</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>merch</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>
+		— Put a +1/+1 counter on this. <i-auto>(Behold <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>det</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> til <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>arrangørene</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>
+	flavor_text: <i-flavor>“<error-spelling:en_US>Der</error-spelling:en_US> var <error-spelling:en_US>jo</error-spelling:en_US> <error-spelling:en_US>kun</error-spelling:en_US> 7 <error-spelling:en_US>spilkoder</error-spelling:en_US>, <error-spelling:en_US>så</error-spelling:en_US> <error-spelling:en_US>det</error-spelling:en_US> <error-spelling:en_US>ville</error-spelling:en_US> <error-spelling:en_US>være</error-spelling:en_US> <error-spelling:en_US>synd</error-spelling:en_US> <error-spelling:en_US>hvis</error-spelling:en_US> <error-spelling:en_US>deltagerne</error-spelling:en_US> <error-spelling:en_US>skulle</error-spelling:en_US> <error-spelling:en_US>slås</error-spelling:en_US> om <error-spelling:en_US>dem</error-spelling:en_US>.”             </i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		frames: 
+		other_options: auto nyx crowns, pride pinlines
+		d20_dividers: all breaks
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-10-09 07:53:09
+	time_modified: 2025-10-13 22:47:39
+	card_color: blue, black, hybrid, horizontal
+	name: Duerne Slipper Ind
+	casting_cost: 1UB
+	image: image153.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		At the beginning of your end step you may lose 2 life. If you do, roll a d6:
+		<b>1-4 — </b> Create a 1/1 blue bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		<b>5 —</b> Create two 1/1 blue bird creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		<b>6 — </b>Create two 1/1 blue bird creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. Repeat this ability <i-auto>(you lose life again.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

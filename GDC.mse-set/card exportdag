@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-17 07:25:39
+	time_modified: 2025-10-13 22:48:20
+	name: Exportdag
+	casting_cost: 2BB
+	image: image132.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Choose one:
+		— Tap all <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltagere</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nattearbejde</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>dagen</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>før</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.)</i-auto>
+		— <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Undevelop</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> any number of tasks, on any number of games that are not fully developed. <i-auto>(Export-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>fejl</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

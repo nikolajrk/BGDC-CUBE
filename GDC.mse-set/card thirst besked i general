@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-27 20:18:51
+	time_modified: 2025-10-20 07:51:48
+	name: Thirst Besked I #General
+	casting_cost: 1B
+	image: image12.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Exile target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		Remove 3 <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counters from each opponent.
+	flavor_text: <i-flavor>“Time to stop wishing for sex, <error-spelling:en_US>imma</error-spelling:en_US> go. Poof” — <error-spelling:en_US>Deltager</error-spelling:en_US>, i #general...</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

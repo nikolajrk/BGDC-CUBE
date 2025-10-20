@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-27 19:20:51
+	time_modified: 2025-09-01 19:58:09
+	name: Faglig Far
+	casting_cost: WU
+	image: image78.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		Choose up to one 3D, 2D, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature. They get <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>“Husk min <error-spelling:en_US>søn</error-spelling:en_US>, en <error-spelling:en_US>rigtig</error-spelling:en_US> <error-spelling:en_US>faglig</error-spelling:en_US> far <error-spelling:en_US>ved</error-spelling:en_US> <error-spelling:en_US>hvordan</error-spelling:en_US> man <error-spelling:en_US>går</error-spelling:en_US> <error-spelling:en_US>ud</error-spelling:en_US> med <error-spelling:en_US>et</error-spelling:en_US> brag”</i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

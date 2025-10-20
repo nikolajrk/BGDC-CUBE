@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-10-22 17:02:41
+	time_modified: 2025-10-19 20:18:08
+	name: Christian, Weapons Master
+	casting_cost: 2BG
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<i>“Space-crew”</i> - This creature crews Vehicles as if its power was 2 greater.
+		Vehicles crewed by Christian, Weapons Master gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> until end of turn.
+		When a Vehicle gets crewed by Christian, untap it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 5
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

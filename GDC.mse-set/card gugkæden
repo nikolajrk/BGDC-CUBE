@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		frames: vehicle
+		other_options: auto nyx crowns, pride pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-11-04 13:12:22
+	time_modified: 2025-09-28 22:16:19
+	name: Gugkæden
+	casting_cost: 4
+	image: image110
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Gugkæden</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters battlefield, you may put a +1/+1 counter on target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> for each <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control. 
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Gugkæden</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> can only be crewed by creatures of type <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		<kw-A><nospellcheck><key>Crew <param-number>3</param-number></key></nospellcheck>.<atom-reminder-expert> <i-auto>(Tap any number of creatures you control with total power <param-number>3</param-number> or more: This Vehicle becomes an artifact creature until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

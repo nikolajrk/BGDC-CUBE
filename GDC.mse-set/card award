@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 11:32:15
+	time_modified: 2025-08-29 16:10:02
+	border_color: rgb(0,0,0)
+	name: Award
+	casting_cost: R
+	image: image106
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><atom-sep> </atom-sep><word-list-artifact>Treasure</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rule_text:
+		<kw-a><nospellcheck><key>Equip <param-name>Deltager</param-name> <param-cost><sym-auto>0</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
+		Equipped creature gains +1/+2.
+		<sym-auto>T</sym-auto>, Sacrifice Award: Add one mana of any color.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Og</error-spelling:en_US> <error-spelling:en_US>årets</error-spelling:en_US> <error-spelling:en_US>pogger</error-spelling:en_US> er...”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

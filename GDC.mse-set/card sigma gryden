@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-04 18:10:06
+	time_modified: 2025-10-05 09:57:28
+	card_color: red, green, artifact, horizontal
+	name: Sigma Gryden
+	casting_cost: G
+	image: image88.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Food</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym-auto>R</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice Sigma <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Gryden</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Gain 6 life.
+		When this is sacrificed, put a +1/+1 counter on each <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control.
+	flavor_text: <i-flavor>“Er Sigma <error-spelling:en_US>Gryde</error-spelling:en_US> <error-spelling:en_US>sådan</error-spelling:en_US> en <error-spelling:en_US>københavnsk</error-spelling:en_US> <error-spelling:en_US>ret</error-spelling:en_US>?” — <error-spelling:en_US>Nikolaj</error-spelling:en_US>, <error-spelling:en_US>Jyde</i-flavor></error-spelling:en_US>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

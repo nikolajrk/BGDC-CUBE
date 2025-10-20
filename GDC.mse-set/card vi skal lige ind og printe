@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-01 18:49:53
+	time_modified: 2025-10-19 20:52:56
+	name: "Vi skal lige ind og printe"
+	casting_cost: 3B
+	image: image74.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Up to 5 target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangører</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <kw-A><nospellcheck><key>phases out</key></nospellcheck>.<atom-reminder-expert> <i-auto>(Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>“Gutter <error-spelling:en_US>det</error-spelling:en_US> er <error-spelling:en_US>ovre</error-spelling:en_US>... <error-spelling:en_US>Deltagerne</error-spelling:en_US> <error-spelling:en_US>har</error-spelling:en_US> <error-spelling:en_US>opdaget</error-spelling:en_US> <error-spelling:en_US>os</error-spelling:en_US>” — <error-spelling:en_US>Isak</i-flavor></error-spelling:en_US>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

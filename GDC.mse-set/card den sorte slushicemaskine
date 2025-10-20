@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-17 07:25:39
+	time_modified: 2025-09-24 20:01:14
+	name: Den sorte Slushicemaskine
+	casting_cost: GU
+	image: image54.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: If you would create a drink, you may instead create a Slush-ice artifact token with “<sym-auto>T</sym-auto>: Tap target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.” <i-auto>(A drink is either a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Sportscola</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> token or a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Monner</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> token)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

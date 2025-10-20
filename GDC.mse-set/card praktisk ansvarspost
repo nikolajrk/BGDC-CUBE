@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-12 22:41:38
+	time_modified: 2025-09-13 02:32:46
+	name: Praktisk Ansvarspost
+	casting_cost: G
+	image: image104.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>Deltager or Arrangør.</param-name></key></nospellcheck></kw-a>
+		Enchanted creature is an 3/3 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Praktisk</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, and has “<sym-auto>T</sym-auto>: Create a Food”. It loses all other types and abilities. 
+	flavor_text: <i-flavor>“I did not choose the <error-spelling:en_US>Praktisk</error-spelling:en_US> <error-spelling:en_US>Ansvarlig</error-spelling:en_US> life, <error-spelling:en_US>det</error-spelling:en_US> <error-spelling:en_US>gjorde</error-spelling:en_US> <error-spelling:en_US>Koordinatorene</error-spelling:en_US> for <error-spelling:en_US>mig</error-spelling:en_US>..”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

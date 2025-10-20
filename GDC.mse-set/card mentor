@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-28 07:48:58
+	time_modified: 2025-09-29 22:50:33
+	name: Mentor
+	casting_cost: 3U
+	image: image57
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature </word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: When <kw-0><nospellcheck><key>Mentor</key></nospellcheck></kw-0> enters, if you control a full group, then <kw-0><nospellcheck><key>Learn</key></nospellcheck></kw-0>. If you don’t control a full group, then you may search your library for a creature with a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>faggruppe</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> type that you don’t control, reveal it and put it into your hand. 
+	flavor_text: <i-flavor>“Husk nu at <error-spelling:en_US>sætte</error-spelling:en_US> post-its <error-spelling:en_US>hvis</error-spelling:en_US> i <error-spelling:en_US>har</error-spelling:en_US> <error-spelling:en_US>brug</error-spelling:en_US> for <error-spelling:en_US>hjælp</error-spelling:en_US>, <error-spelling:en_US>sidder</error-spelling:en_US> fast <error-spelling:en_US>eller</error-spelling:en_US> <error-spelling:en_US>vil</error-spelling:en_US> vise <error-spelling:en_US>noget</error-spelling:en_US> <error-spelling:en_US>frem</error-spelling:en_US>”</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

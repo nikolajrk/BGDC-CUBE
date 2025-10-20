@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-28 21:59:04
+	time_modified: 2025-10-20 07:40:28
+	name: Felix, Pride-Jungle
+	casting_cost: BGU
+	image: image158.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>2D</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Praktisk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key><param-prefix>Forest</param-prefix>walk</key></nospellcheck><soft-line><atom-reminder-old> <i-auto>(This creature can’t be blocked as long as defending player controls a <param-prefix>Forest</param-prefix>.)</i-auto></atom-reminder-old></kw-A>
+		When this becomes tapped, create a Drink. <i-auto>(You choose between either a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Sportscola</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Monner</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto></soft-line>
+	flavor_text: <i-flavor>“Felix er i <error-spelling:en_US>skoven</error-spelling:en_US> for at <error-spelling:en_US>afskaffe</error-spelling:en_US> <error-spelling:en_US>lig</error-spelling:en_US>” — So Far So <error-spelling:en_US>Fus</error-spelling:en_US>, ca.</i-flavor>
+	power: 4
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

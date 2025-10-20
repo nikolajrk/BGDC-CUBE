@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-12 23:16:32
+	time_modified: 2025-10-19 20:53:40
+	name: Lan efter GDC
+	casting_cost: 4BG
+	image: image106.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Create four 1/1 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangører</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with “This creature crews Vehicles as if its power was 2 greater.”
+		Search your library for a Vehicle, and put it into your hand. 
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

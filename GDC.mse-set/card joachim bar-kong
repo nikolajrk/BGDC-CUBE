@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-28 21:59:04
+	time_modified: 2025-10-20 07:40:59
+	name: Joachim, Bar-kong
+	casting_cost: 4GU
+	image: image136.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Programmering</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>.
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Joachim</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Bar-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>kong</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals combat damage to an opponent, create that many Drinks. 
+	flavor_text: <i-flavor>“Er <error-spelling:en_US>du</error-spelling:en_US> <error-spelling:en_US>på</error-spelling:en_US> <error-spelling:en_US>niveau</error-spelling:en_US>?”</i-flavor>
+	power: 3
+	toughness: 7
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

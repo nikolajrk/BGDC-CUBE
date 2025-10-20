@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-10-09 22:00:56
+	time_modified: 2023-10-09 22:01:36
+	name: Taktisk Lur
+	casting_cost: U
+	image: image75
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <kw-A><nospellcheck><key>phases out</key></nospellcheck> until the beginning of the next phase.<atom-reminder-expert> <i-auto>(Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>“Bare <error-spelling:en_US>væk</error-spelling:en_US> <error-spelling:en_US>mig</error-spelling:en_US> <error-spelling:en_US>når</error-spelling:en_US> social <error-spelling:en_US>blokken</error-spelling:en_US> <error-spelling:en_US>begynder</error-spelling:en_US>”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

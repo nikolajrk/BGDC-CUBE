@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		front_style: normal
+		defaults: for loyalty costs, saga chapters, leveler arrows and stripes, use -N to move up
+		move_loyalty_costs: 1000,1000,1000,1000,
+		front_font_cap: 
+		shrink_name_text: 
+		other_options: use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-09-12 22:37:41
+	time_modified: 2025-10-13 22:43:43
+	special_text: 
+	name: Daniels Bil
+	name_2: Daniels Bil, fixet
+	casting_cost: 3
+	image: image91.png
+	image_2: image_211.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When Daniels <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bil</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, create two 1/1 Wheel artifact creature tokens.
+		<sym-auto>2</sym-auto>, Sacrifice two artifacts: Exile Daniels <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bil</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, then return it to the battlefield transformed.
+		<kw-0><nospellcheck><key>Crew <param-number>2</param-number></key></nospellcheck></kw-0>
+	rule_text_2:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Crew <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Tap any number of creatures you control with total power <param-number>1</param-number> or more: This Vehicle becomes an artifact creature until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>“<error-spelling:en_US>Øøøøh</error-spelling:en_US> Daniel? Du <error-spelling:en_US>burde</error-spelling:en_US> <error-spelling:en_US>nok</error-spelling:en_US> <error-spelling:en_US>lige</error-spelling:en_US> <error-spelling:en_US>komme</error-spelling:en_US> <error-spelling:en_US>ud</error-spelling:en_US>   <error-spelling:en_US>på</error-spelling:en_US> <error-spelling:en_US>parkeringspladsen</error-spelling:en_US> <error-spelling:en_US>og</error-spelling:en_US> <error-spelling:en_US>se</error-spelling:en_US> <error-spelling:en_US>det</error-spelling:en_US> her...”                   </i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 2
+	power_2: 4
+	toughness: 2
+	toughness_2: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		frames: lesson
+		other_options: auto nyx crowns, pride pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-10-30 09:09:55
+	time_modified: 2025-08-29 14:50:55
+	name: Foley Lesson
+	casting_cost: 2G
+	transformation: lesson
+	image: image89
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery </word-list-type-en>
+	sub_type: <word-list-spell>Lesson</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rule_text: Target creature fights another target creature. If only one of them survives, put a +1/+1 counter on it.
+	flavor_text: <i-flavor>“Vi <error-spelling:en_US>har</error-spelling:en_US> <error-spelling:en_US>brug</error-spelling:en_US> for en ‘take <error-spelling:en_US>damage’</error-spelling:en_US> <error-spelling:en_US>lyd</error-spelling:en_US>”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

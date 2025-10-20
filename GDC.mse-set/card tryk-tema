@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		frames: 
+		other_options: auto nyx crowns, pride pinlines
+		d20_dividers: all breaks
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-10-05 12:56:15
+	time_modified: 2025-10-19 20:43:51
+	name: Tryk-Tema
+	casting_cost: 1UR
+	image: image151.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Tryk</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		At the beginning of combat, roll a d6:
+		1-2 — Create a Treasure. <i-auto>(Deep Rock Galactic)</i-auto>
+		3-4 — Target creature gains “can’t be blocked” and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn. <i-auto>(Limbo)</i-auto>
+		5-6 — Target creature gets +2/+2 and gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn. <i-auto>(Hollow Knight)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

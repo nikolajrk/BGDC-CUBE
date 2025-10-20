@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 18:39:07
+	time_modified: 2025-10-19 20:54:42
+	name: Antiautoritær deltager
+	casting_cost: 4W
+	image: image134
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Antiautoritær</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> also has the types 2D, 3D, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Antiautoritær</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> can’t block this turn.
+	flavor_text: <i-flavor>“Vi er <error-spelling:en_US>altså</error-spelling:en_US> <error-spelling:en_US>voksne</error-spelling:en_US> <error-spelling:en_US>mennesker</error-spelling:en_US>, <error-spelling:en_US>så</error-spelling:en_US> <error-spelling:en_US>hvorfor</error-spelling:en_US> <error-spelling:en_US>behandler</error-spelling:en_US> i <error-spelling:en_US>os</error-spelling:en_US> <error-spelling:en_US>som</error-spelling:en_US> <error-spelling:en_US>små</error-spelling:en_US> <error-spelling:en_US>børn</error-spelling:en_US>? Vi <error-spelling:en_US>må</error-spelling:en_US> <error-spelling:en_US>ikke</error-spelling:en_US> <error-spelling:en_US>engang</error-spelling:en_US> <error-spelling:en_US>købe</error-spelling:en_US> <error-spelling:en_US>slik</error-spelling:en_US> <error-spelling:en_US>når</error-spelling:en_US> vi <error-spelling:en_US>har</error-spelling:en_US> <error-spelling:en_US>løst</error-spelling:en_US>.”</i-flavor>
+	power: 5
+	toughness: 5
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

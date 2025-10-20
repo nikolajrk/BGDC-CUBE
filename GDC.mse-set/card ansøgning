@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 18:00:05
+	time_modified: 2023-11-04 18:05:15
+	name: Ansøgning
+	casting_cost: 2
+	image: image127
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text:
+		<sym-auto>T</sym-auto>: Choose target creature you control. Roll a D6. until your next upkeep the chosen creature gains that type and +1/+1:
+		</sym>1<sym>: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Afmeldt</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		</sym>2<sym>: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		</sym>3<sym>: 3D
+		</sym>4<sym>: 2D
+		</sym>5<sym>: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		</sym>6<sym>: Your choice of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, 3D, 2D or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		frames: vehicle
+		other_options: auto nyx crowns, pride pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-10-05 19:04:20
+	time_modified: 2025-10-13 22:41:54
+	name: 
+	casting_cost: 
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en></word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Indkøbsvogn<soft-line></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		</soft-line><kw-A><nospellcheck><key>Crew <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Tap any number of creatures you control with total power <param-number>1</param-number> or more: This  becomes an artifact creature until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		When this attacks, target artifact loses all abilities and you gain control of it until <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Indkøbsvogn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals combat damage to an opponent.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Fattigmands</error-spelling:en_US> <error-spelling:en_US>palleløfter</error-spelling:en_US>”</i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

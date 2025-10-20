@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 19:29:09
+	time_modified: 2025-10-20 07:30:08
+	name: Koordinatorernes Veto
+	casting_cost: 5
+	image: image141
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		<kw-A><nospellcheck><key>Split second</key></nospellcheck><atom-reminder-expert> <i-auto>(As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)</i-auto></atom-reminder-expert></kw-A>
+		This spell can’t be countered.
+		<soft-line><soft-line>Exile target spell.</soft-line></soft-line>
+	flavor_text: <i-flavor><error-spelling:en_US>Nej</error-spelling:en_US>!</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

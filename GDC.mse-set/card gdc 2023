@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2023-10-03 20:48:41
+	time_modified: 2025-10-19 20:53:14
+	special_text:
+		
+		I —  Create four 1/1 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangører</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, and put a +1/+1 counter on all creatures you control. - <i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arbejdsweekend</i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		II — <kw-0><nospellcheck><key>Amass <param-name>Deltager</param-name> <param-number>8</param-number></key></nospellcheck></kw-0>. <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures you control gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn. -<i>”Camp”</i>
+		III — Put up to 5 cards you own from outside the game into your hand.  -<i>”Cube <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>efter</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> camp”</i>
+	name: GDC 2023
+	casting_cost: 6GG
+	image: image64
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment </word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text:
+		 Create four 1/1 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangører</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, and put a +1/+1 counter on all creatures you control. - <i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arbejdsweekend</i></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+	level_2_text: <kw-0><nospellcheck><key>Amass <param-name>Deltager</param-name> <param-number>8</param-number></key></nospellcheck></kw-0>. <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures you control gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn. -<i>”Camp”</i>
+	level_3_text: Put up to 5 cards you own from outside the game into your hand.  -<i>”Cube <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>efter</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> camp”</i>
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

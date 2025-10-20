@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 16:32:52
+	time_modified: 2025-10-20 07:36:25
+	name: Felix, Master of the Food Order
+	casting_cost: 1G
+	image: image122
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature </word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Praktisk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: When Felix, Master of the Food Order enters, each player rolls a d6. The player who roll highest creates three Food. The player who rolls </sym>second highest<sym> creates two Food. The player who rolls third highest creates one Food. Ties are determined by re-rolls.  
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

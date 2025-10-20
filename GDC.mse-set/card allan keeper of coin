@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-26 18:32:36
+	time_modified: 2025-09-29 22:41:25
+	name: Allan, Keeper of Coin
+	casting_cost: 2WB
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Kasserer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		Allan, Keeper of Coin gets +1/+1 for each <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bilag</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> token you control.
+		Whenever another <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control enters, create a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bilag</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> token. 
+	flavor_text: <i-flavor>“Husk, deadline er <error-spelling:en_US>på</error-spelling:en_US> <error-spelling:en_US>søndag</error-spelling:en_US> om 2 <error-spelling:en_US>uger</error-spelling:en_US>”</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

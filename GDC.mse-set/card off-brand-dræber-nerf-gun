@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-31 20:01:46
+	time_modified: 2025-10-19 20:22:46
+	name: Off-brand-dræber-NERF-gun
+	casting_cost: 2
+	image: image64.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Equipped creature has “<sym-auto>T</sym-auto>: Create a 1/1 NERF Dart token. It has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and is goaded. Sacrifice it at the beginning of the next end step.”
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor><error-spelling:en_US>Det</error-spelling:en_US> er <error-spelling:en_US>klart</error-spelling:en_US> den <error-spelling:en_US>lille</error-spelling:en_US> gun <error-spelling:en_US>der</error-spelling:en_US>, <error-spelling:en_US>som</error-spelling:en_US> <error-spelling:en_US>skyder</error-spelling:en_US> <error-spelling:en_US>aller</error-spelling:en_US> <error-spelling:en_US>hårdest</error-spelling:en_US>.</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

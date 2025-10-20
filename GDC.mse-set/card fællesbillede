@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-27 00:04:48
+	time_modified: 2025-10-20 07:50:57
+	name: Fællesbillede
+	casting_cost: 4RR
+	image: image45
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		<kw-A><nospellcheck><key>Convoke</key></nospellcheck><atom-reminder-expert> <i-auto>(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for <sym>1</sym> or one mana of that creature’s color.)</i-auto></atom-reminder-expert></kw-A>
+		Create X 1/1 Illusion creature tokens, where X is the amount of creatures you control. 
+	flavor_text: <i-flavor>“I <error-spelling:en_US>skal</error-spelling:en_US> <error-spelling:en_US>stå</error-spelling:en_US> i <error-spelling:en_US>firkanten</error-spelling:en_US> <error-spelling:en_US>mellem</error-spelling:en_US> <error-spelling:en_US>Katrine</error-spelling:en_US> <error-spelling:en_US>og</error-spelling:en_US> Allan, <error-spelling:en_US>så</error-spelling:en_US> er i med <error-spelling:en_US>på</error-spelling:en_US> <error-spelling:en_US>billedet</error-spelling:en_US>”</i-flavor>
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

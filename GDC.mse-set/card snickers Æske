@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 12:27:35
+	time_modified: 2025-08-29 10:39:33
+	name: Snickers Æske
+	casting_cost: 3
+	image: image30.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Food</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rule_text:
+		<sym-auto>2</sym-auto>, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Sacrifie</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Snickers <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Æske</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Gain 3 life.
+		When this artifact is sacrificed, create a Legendary Artifact Token named “<kw-0><nospellcheck><key>Epic</key></nospellcheck></kw-0> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deckbox</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>!” with “<sym-auto>T</sym-auto>, <sym-auto>3</sym-auto>: Search your deck for any card. Flip a coin. If its heads, put the card into your hand. If it is tails, exile the card instead.” 
+	flavor_text: <i-flavor>“Just a box of snickers...”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

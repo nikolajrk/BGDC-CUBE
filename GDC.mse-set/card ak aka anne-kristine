@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		other_options: un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-09-26 18:17:46
+	time_modified: 2025-10-20 07:46:28
+	special_text:
+		[+2]: <margin:130:0:0> Create a Food. <i-auto>(“Very good cake”)</i-auto></margin:130:0:0>
+		[+1]: <margin:130:0:0>Opponents cannot sacrifice <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bilag</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> until the end of your next turn. <i-auto>(“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Distraher</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Allan”)</i-auto></margin:130:0:0>
+		[-2]: <margin:130:0:0>Put two +1/+1 counters and a <kw-0><nospellcheck><key>shield counter</key></nospellcheck></kw-0> on target creature you control. <i-auto>(“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hækle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>et</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>kostume</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”)</i-auto></margin:130:0:0>
+	name: AK, AKA Anne-Kristine
+	casting_cost: 1GG
+	image: image35
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>AK</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rule_text: <sym>+2</sym>
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_1: +2
+	loyalty_cost_2: +1
+	loyalty_cost_3: -2
+	loyalty: 4
+	level_1_text: <margin:130:0:0> Create a Food. <i-auto>(“Very good cake”)</i-auto></margin:130:0:0>
+	level_2_text: <margin:130:0:0>Opponents cannot sacrifice <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bilag</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> until the end of your next turn. <i-auto>(“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Distraher</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Allan”)</i-auto></margin:130:0:0>
+	level_3_text: <margin:130:0:0>Put two +1/+1 counters and a <kw-0><nospellcheck><key>shield counter</key></nospellcheck></kw-0> on target creature you control. <i-auto>(“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hækle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>et</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>kostume</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”)</i-auto></margin:130:0:0>
+	level_4_text: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-10 22:29:23
+	time_modified: 2025-09-10 22:52:43
+	name: Slacker-gruppen
+	casting_cost: GW
+	image: image97.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Army</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		Slacker-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>gruppen</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> does not untap in your untap step.
+		Tap an untapped <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Untap Slacker-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>gruppen</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Nej</error-spelling:en_US>, I <error-spelling:en_US>må</error-spelling:en_US> <error-spelling:en_US>ikke</error-spelling:en_US> <error-spelling:en_US>spille</error-spelling:en_US> Mao i <error-spelling:en_US>stedet</error-spelling:en_US> for at <error-spelling:en_US>være</error-spelling:en_US> til <error-spelling:en_US>foredrag</error-spelling:en_US>...”</i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

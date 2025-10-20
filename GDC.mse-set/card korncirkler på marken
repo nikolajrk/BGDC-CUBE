@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-26 06:58:10
+	time_modified: 2023-09-26 07:20:39
+	card_color: land, multicolor
+	name: Korncirkler på Marken
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rule_text: <sym-auto>T</sym-auto>: Add one mana of any color, that clothing you are wearing does <b>not</b> contain.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Sværger</error-spelling:en_US> <error-spelling:en_US>det</error-spelling:en_US> var aliens”</i-flavor>
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

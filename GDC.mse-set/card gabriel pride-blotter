@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-28 21:59:04
+	time_modified: 2025-10-19 20:42:59
+	name: Gabriel, Pride-Blotter
+	casting_cost: URW
+	image: image155.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Lyd</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When Gabriel, Pride-Blotter enters, roll a d2. Gain <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counters equal to the result. 
+		Whenever a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature you control attacks, it gets +X/+0 until end of turn, where X is the amount of <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counters you have.
+	flavor_text: <i-flavor>“Han <error-spelling:en_US>må</error-spelling:en_US> <error-spelling:en_US>danse</error-spelling:en_US> <error-spelling:en_US>helt</error-spelling:en_US> <error-spelling:en_US>alene</error-spelling:en_US>” — So Far So <error-spelling:en_US>Fus</error-spelling:en_US>     </i-flavor>
+	power: 2
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

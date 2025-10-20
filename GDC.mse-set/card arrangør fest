@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-27 09:57:25
+	time_modified: 2025-08-27 00:31:39
+	name: Arrangør Fest
+	casting_cost: 1RW
+	image: image51
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Give each <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control +3/-1 until end of turn.
+		Gain a <kw-0><nospellcheck><key>Party</key></nospellcheck></kw-0> counter.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Har</error-spelling:en_US> i <error-spelling:en_US>prøvet</error-spelling:en_US> Don’t drink and drive Mario Kart?”</i-flavor>
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

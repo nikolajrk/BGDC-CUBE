@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-25 22:16:23
+	time_modified: 2023-09-26 07:21:06
+	name: Balloon Arch
+	casting_cost: 3
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text:
+		All players may only attack with one creature each turn.
+		When this leaves the battlefield, create 5 0/1 Balloon tokens.
+	flavor_text: <i-flavor>“Arch <error-spelling:en_US>Btw</error-spelling:en_US>” — <error-spelling:en_US>Lohse</i-flavor></error-spelling:en_US>
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

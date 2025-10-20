@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-01 19:58:26
+	time_modified: 2025-09-18 20:25:55
+	name: Felix, Faglig Søn
+	casting_cost: U
+	image: image14.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>2D</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym-auto>W</sym-auto>, Sacrifice another <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: This becomes a </sym>4/4 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør<sym></error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, and gains the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, 3D, 2D and <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> type.
+	flavor_text: <i-flavor>“Far???..” — Felix, <error-spelling:en_US>da</error-spelling:en_US> <error-spelling:en_US>Isak</error-spelling:en_US> <error-spelling:en_US>blev</error-spelling:en_US> <error-spelling:en_US>myrdet</error-spelling:en_US> <error-spelling:en_US>af</error-spelling:en_US> Augustus <error-spelling:en_US>og</error-spelling:en_US> <error-spelling:en_US>hans</error-spelling:en_US> 30 <error-spelling:en_US>deltagere</error-spelling:en_US>.</i-flavor>
+	power: 1
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

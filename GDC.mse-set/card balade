@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-12 23:18:09
+	time_modified: 2025-10-19 20:37:47
+	name: Balade!
+	casting_cost: GW
+	image: image108.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Remove all +1/+1 counters from target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control. Then for each one removed, choose one. You may choose the same mode more than once:
+		— Deal 2 Damage to an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		— Create a 1/1 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Token.
+		— Destroy an artifact.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Jeg</error-spelling:en_US> <error-spelling:en_US>kunne</error-spelling:en_US> <error-spelling:en_US>ikke</error-spelling:en_US> <error-spelling:en_US>forestille</error-spelling:en_US> <error-spelling:en_US>mig</error-spelling:en_US> <error-spelling:en_US>nogen</error-spelling:en_US> <error-spelling:en_US>der</error-spelling:en_US> <error-spelling:en_US>lavdede</error-spelling:en_US> <error-spelling:en_US>nøgenløb</error-spelling:en_US> <error-spelling:en_US>på</error-spelling:en_US> <error-spelling:en_US>GDC</error-spelling:en_US>?” — <error-spelling:en_US>Niklas</i-flavor></error-spelling:en_US>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

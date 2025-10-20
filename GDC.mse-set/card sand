@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-28 21:59:04
+	time_modified: 2025-09-30 07:56:02
+	name: Sand?!?
+	casting_cost: GG
+	image: image146.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Each player votes for Sand or a color. If Sand gets at least half of all votes, destroy all artifacts. Then each permanent that is a color with most votes or tied for most votes gets a +1/+1 counter on it.
+	flavor_text: <i-flavor>“Never forget 2022 <error-spelling:en_US>og</error-spelling:en_US> 2023, <error-spelling:en_US>da</error-spelling:en_US> <error-spelling:en_US>Katrine</error-spelling:en_US> <error-spelling:en_US>og</error-spelling:en_US> Sara <error-spelling:en_US>fjernede</error-spelling:en_US> den <error-spelling:en_US>som</error-spelling:en_US> <error-spelling:en_US>mulighed</error-spelling:en_US>!”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

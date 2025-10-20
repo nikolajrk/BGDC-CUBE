@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-28 07:20:09
+	time_modified: 2025-10-05 19:19:48
+	name: Slik-Poker
+	casting_cost: GG
+	image: image83
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Each player gathers a pile of all counters on permanents they control, or on themselves. Then each player, starting with you, may look at the top two cards of their library, and bet two or more counters. Then each player reveals the top two cards of their library. The player with the highest revealed pair of mana costs, or highest revealed mana cost if there are no pairs, win counters from each opponents bet equal to their own bet. Then each player puts the top two cards on the bottom of their library. The opponent to your left repeat this ability, unless only one player has counters in their pile. That player may then distribute those counters on any permanents or themselves. 
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-29 15:58:23
+	time_modified: 2025-09-12 23:03:26
+	name: Afrydning
+	casting_cost: 2G
+	image: image40.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures you control gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn. <soft-line>
+		</soft-line><soft-line><soft-line>
+		Destroy up to two target artifacts.</soft-line></soft-line>
+	flavor_text: <i-flavor><error-spelling:en_US>Både</error-spelling:en_US> <error-spelling:en_US>Lohses</error-spelling:en_US> <error-spelling:en_US>og</error-spelling:en_US> <error-spelling:en_US>Nikolajs</error-spelling:en_US> <error-spelling:en_US>riskogere</error-spelling:en_US> <error-spelling:en_US>blev</error-spelling:en_US> <error-spelling:en_US>tabt</error-spelling:en_US>, 2025.</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

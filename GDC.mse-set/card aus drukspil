@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-29 13:13:42
+	time_modified: 2025-08-29 13:36:15
+	name: AU’s Drukspil
+	casting_cost: RW
+	image: image34.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Each player sacrifices all their drinks, and gains a <kw-0><nospellcheck><key>Party</key></nospellcheck></kw-0> Counter for each one sacrificed.<soft-line>
+		<soft-line>
+		Draw a card.</soft-line></soft-line>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

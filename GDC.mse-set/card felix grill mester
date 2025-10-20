@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-25 22:06:03
+	time_modified: 2025-08-27 00:40:34
+	name: Felix, Grill mester
+	casting_cost: RG
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature - Arrangør Praktisk </word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rule_text:
+		When Felix enters the battlefield, you may sacrifice a Food. If you don’t, this enters the battlefield tapped.
+		<sym-auto>T</sym-auto>, <sym-auto>2</sym-auto>: For each <kw-a><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck></kw-a> you control, create a <kw-a><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

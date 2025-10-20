@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-10 22:29:23
+	time_modified: 2025-09-17 07:34:50
+	name: Gammel Arrangør på Besøg
+	casting_cost: R
+	image: image93.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: This creature cannot block or be blocked by <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures.
+	flavor_text: <i-flavor>“<error-spelling:en_US>OG’s</error-spelling:en_US> will remember” — Allan, om <error-spelling:en_US>et</error-spelling:en_US> <error-spelling:en_US>obskurt</error-spelling:en_US> <error-spelling:en_US>GDC</error-spelling:en_US> <error-spelling:en_US>spil</error-spelling:en_US> <error-spelling:en_US>der</error-spelling:en_US> <error-spelling:en_US>blev</error-spelling:en_US> <error-spelling:en_US>lavet</error-spelling:en_US> for 10+ <error-spelling:en_US>år</error-spelling:en_US> <error-spelling:en_US>siden</error-spelling:en_US>.</i-flavor>
+	power: 2
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

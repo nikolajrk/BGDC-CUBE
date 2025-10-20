@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-30 11:49:30
+	time_modified: 2025-08-30 12:16:53
+	name: Smash Bro’s turnering
+	casting_cost: 2RW
+	image: image52.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Starting with you, each player chooses a creature. Then starting with an opponent of your choice, that players chosen creature fights a random creature. Repeat until at most 1 of the chosen creatures are on the battlefield. Its owner gets 3 <kw-0><nospellcheck><key>Party</key></nospellcheck></kw-0> Counters.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

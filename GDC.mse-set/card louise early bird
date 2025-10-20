@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-31 20:34:05
+	time_modified: 2025-10-09 07:49:51
+	name: Louise, Early Bird
+	casting_cost: 2G
+	image: image68.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Praktisk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Louise untaps in each players untap step.
+		<kw-0><nospellcheck><key>Shroud</key></nospellcheck></kw-0> from <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltagere</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. <i-auto>(This creature cannot be the target of abilities of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltagere</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.)</i-auto>
+	flavor_text: <i-flavor>“<error-spelling:en_US>Jeg</error-spelling:en_US> <error-spelling:en_US>har</error-spelling:en_US> <error-spelling:en_US>fundet</error-spelling:en_US> <error-spelling:en_US>ud</error-spelling:en_US> <error-spelling:en_US>af</error-spelling:en_US>, <error-spelling:en_US>jeg</error-spelling:en_US> <error-spelling:en_US>faktisk</error-spelling:en_US> <error-spelling:en_US>ikke</error-spelling:en_US> <error-spelling:en_US>rigtig</error-spelling:en_US> <error-spelling:en_US>kan</error-spelling:en_US> <error-spelling:en_US>lide</error-spelling:en_US> at <error-spelling:en_US>snakke</error-spelling:en_US> med <error-spelling:en_US>deltagerne</error-spelling:en_US>....”           </i-flavor>
+	power: 3
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

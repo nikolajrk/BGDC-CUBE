@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		frames: 
+		other_options: auto nyx crowns, pride pinlines
+		d20_dividers: all breaks +1
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-10-22 16:14:47
+	time_modified: 2025-10-19 20:43:09
+	name: Felix, Space Scientist
+	casting_cost: BBG
+	image: image77
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Praktisk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i>“Space-crew”</i> - This creature crews Vehicles as if its power was 2 greater.
+		When Felix, Space Scientist crews a Vehicle, roll a d20:
+		1-10: The Vehicle gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
+		11-19: The Vehicle gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		</sym>20<sym>: The Vehicle gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

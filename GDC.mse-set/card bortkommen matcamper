@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-10-09 21:43:07
+	time_modified: 2025-09-29 22:51:48
+	name: Bortkommen Matcamper
+	casting_cost: 2
+	image: image70
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Last strike</key></nospellcheck>. When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bortkommen</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Matcamper</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, <kw-a><nospellcheck><key>scry <param-number>2</param-number></key></nospellcheck></kw-a> and gain 2 life.<atom-reminder-expert> <i-auto>(This creature deals combat damage after creatures without last strike.)</i-auto></atom-reminder-expert></kw-A>
+		<sym-auto>2</sym-auto>: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-17 07:25:39
+	time_modified: 2025-09-30 22:02:29
+	name: Kim Gistrup, the Betrayer
+	casting_cost: 1B
+	image: image66.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Devil</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When this enters, prevent all damage that would be dealt to you this turn. At the beginning of the end step of your next turn, lose life equal to the amount prevented.
+	flavor_text: <i-flavor>“Bare <error-spelling:en_US>giv</error-spelling:en_US> <error-spelling:en_US>dem</error-spelling:en_US> <error-spelling:en_US>mit</error-spelling:en_US> <error-spelling:en_US>telefonnummer</error-spelling:en_US>, <error-spelling:en_US>så</error-spelling:en_US> <error-spelling:en_US>tager</error-spelling:en_US> <error-spelling:en_US>jeg</error-spelling:en_US> den.” — Han tog den <error-spelling:en_US>ikke</i-flavor></error-spelling:en_US>
+	power: 1
+	toughness: 2
+	illustrator: FEBK
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

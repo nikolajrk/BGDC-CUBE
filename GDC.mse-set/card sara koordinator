@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 13:46:49
+	time_modified: 2025-09-05 07:52:37
+	name: Sara, Koordinator
+	casting_cost: 3GW
+	image: image117
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Koordinator</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Partne<param-name>r</param-name> with <param-name>Katrine, Koordinator</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature enters, target player may put <param-name>Katrine into their hand from their library, then shuffle.)</i-auto></atom-reminder-expert></kw-A>
+		<sym-auto>T</sym-auto>: Create a 1/1 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> token.
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures you control have: “<sym-auto>T</sym-auto>: <kw-0><nospellcheck><key>Amass <param-name>Deltager</param-name> <param-number>1</param-number></key></nospellcheck></kw-0>”.
+	flavor_text: <i-flavor>“I didn’t choose the <error-spelling:en_US>koordinator</error-spelling:en_US> life, the <error-spelling:en_US>koordinator</error-spelling:en_US> life chose me”</i-flavor>
+	power: 3
+	toughness: 5
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

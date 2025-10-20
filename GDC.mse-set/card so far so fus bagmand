@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-29 12:14:52
+	time_modified: 2023-10-22 17:09:15
+	card_color: black, multicolor
+	name: So Far So Fus, Bagmand
+	casting_cost: 3B
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Lyd</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<i>“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Brandvarm</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>bil</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”</i>- <sym-auto>1R</sym-auto>: Target creature gets <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and +1/+1 until end of turn.<soft-line>
+		“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Trylleskunk</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”- <sym-auto>1G</sym-auto>: Tap target creature, and put a +1/+1 counter on it. <soft-line><soft-line>
+		<i>“<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hvidvask</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”</i>- 1<sym>UW</sym>: Exile target creature. Return it to the battlefield at the beginning of the next end step. </soft-line></soft-line></soft-line>
+	flavor_text: <i-flavor><error-spelling:en_US>Egentlig</error-spelling:en_US> er vi <error-spelling:en_US>jo</error-spelling:en_US> 7, for <error-spelling:en_US>jeg</error-spelling:en_US> er <error-spelling:en_US>også</error-spelling:en_US> <error-spelling:en_US>selv</error-spelling:en_US> med. <error-spelling:en_US>Jeg</error-spelling:en_US> er <error-spelling:en_US>bagmanden</error-spelling:en_US>.</i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

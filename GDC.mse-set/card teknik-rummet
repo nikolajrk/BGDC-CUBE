@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-31 19:21:55
+	time_modified: 2025-10-03 21:00:45
+	name: Teknik-rummet
+	image: image47.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>UNF</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		This enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>U</sym-auto>
+		<sym-auto>4</sym-auto>, <sym-auto>T</sym-auto>: Create a Merge Conflict.
+	flavor_text: <i-flavor>Jo <error-spelling:en_US>længere</error-spelling:en_US> <error-spelling:en_US>væk</error-spelling:en_US> <error-spelling:en_US>fra</error-spelling:en_US> <error-spelling:en_US>deltagerne</error-spelling:en_US>, <error-spelling:en_US>jo</error-spelling:en_US> <error-spelling:en_US>bedre</error-spelling:en_US>....</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

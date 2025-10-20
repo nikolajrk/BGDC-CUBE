@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-01 20:14:16
+	time_modified: 2025-10-19 20:02:47
+	name: Momoh, Missing in Action
+	casting_cost: U
+	image: image81.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>lyd</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Vanishing <param-number>4</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature enters with <param-number>four</param-number> time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)</i-auto></atom-reminder-expert></kw-A>
+		Whenever another <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature enters under your control, put a +1/+1 counter on it.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Jeg</error-spelling:en_US> <error-spelling:en_US>vil</error-spelling:en_US> have <error-spelling:en_US>Momoh</error-spelling:en_US> <error-spelling:en_US>tilbage</error-spelling:en_US>!” — Gabriel           </i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

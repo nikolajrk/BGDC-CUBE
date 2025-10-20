@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-leveler
+	stylesheet_version: 2024-06-07
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 17:46:57
+	time_modified: 2025-10-20 07:43:56
+	name: Ambitiøs 3D’er
+	casting_cost: U
+	image: image124
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>3D</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Level Up: <sym>1U</sym>
+	flavor_text: <i-flavor></i-flavor>
+	level_0: 0-1
+	level_1: 2-3
+	level_2: 4+
+	level_2_text: Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ambitiøs</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> 3<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>D’er</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, create a 0/1 Cube.
+	level_3_text:
+		<kw-0><nospellcheck><key>Mentor</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>vigilance</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>flying</key></nospellcheck></kw-0>
+		Also has previous ability.
+	power: 1
+	power_2: 2
+	power_3: 4
+	toughness: 1
+	toughness_2: 3
+	toughness_3: 6
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

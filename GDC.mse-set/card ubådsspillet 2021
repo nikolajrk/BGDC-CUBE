@@ -1,0 +1,68 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: false
+	notes: 
+	time_created: 2025-08-30 17:14:12
+	time_modified: 2025-10-19 20:05:29
+	extra_data:
+		magic-m15-mainframe-dfc:
+			front_color_hint: D
+	special_text:
+		<i-auto>(You may tap a creature that shares a type with a task, to develop it as a sorcery. When all tasks are developed, transform.)</i-auto>
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:</b>
+		This Game has <kw-0><nospellcheck><key>Crew <param-number>2</param-number></key></nospellcheck></kw-0>
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:</b>
+		This Game has <kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>.
+		<b>2D:</b>
+		This Game has <kw-0><nospellcheck><key>Fear</key></nospellcheck></kw-0>.
+		<b>3D:</b>
+		When this is developed, create two blue 1/1 Fish.
+	card_color: blue, black, artifact, multicolor, horizontal
+	card_color_2: blue, black, artifact, horizontal
+	name: Ubådsspillet (2021)
+	name_2: Ubåden
+	casting_cost: UB
+	image: image71.png
+	image_2: image_23.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Game</word-list-artifact><atom-sep> </atom-sep><word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: <word-list-artifact>Game</word-list-artifact><atom-sep> </atom-sep><word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_3: 
+	sub_type_4: 
+	chapter_text: <i-auto>(You may tap a creature that shares a type with a task, to develop it as a sorcery. When all tasks are developed, transform.)</i-auto>
+	rule_text: 
+	rule_text_2:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-1><nospellcheck><key>Fear</key></nospellcheck><atom-reminder-old> <i-auto>(This creature can’t be blocked except by artifact creatures and/or black creatures.)</i-auto></atom-reminder-old></kw-1>
+		<kw-0><nospellcheck><key>Crew <param-number>2</param-number></key></nospellcheck></kw-0>
+		When this is fully developed, choose one:
+		— Create a 5/5  black Fish,  
+		— Tap all <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor>“<error-spelling:en_US>Det</error-spelling:en_US> var <error-spelling:en_US>lidt</error-spelling:en_US> <error-spelling:en_US>synd</error-spelling:en_US> at <error-spelling:en_US>arrangøre</error-spelling:en_US> (<error-spelling:en_US>Isak</error-spelling:en_US>) <error-spelling:en_US>spillede</error-spelling:en_US> <error-spelling:en_US>vores</error-spelling:en_US> <error-spelling:en_US>spil</error-spelling:en_US> <error-spelling:en_US>så</error-spelling:en_US> <error-spelling:en_US>meget</error-spelling:en_US>, at <error-spelling:en_US>deltagerne</error-spelling:en_US> <error-spelling:en_US>ikke</error-spelling:en_US> <error-spelling:en_US>kunne</error-spelling:en_US> <error-spelling:en_US>få</error-spelling:en_US> <error-spelling:en_US>lov</error-spelling:en_US> at <error-spelling:en_US>prøve</error-spelling:en_US> <error-spelling:en_US>dem</error-spelling:en_US>”           </i-flavor>
+	level_1_text:
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:</b>
+		This Game has <kw-0><nospellcheck><key>Crew <param-number>2</param-number></key></nospellcheck></kw-0>
+	level_2_text:
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:</b>
+		This Game has <kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>.
+	level_3_text:
+		<b>2D:</b>
+		This Game has <kw-0><nospellcheck><key>Fear</key></nospellcheck></kw-0>.
+	level_4_text:
+		<b>3D:</b>
+		When this is developed, create two blue 1/1 Fish.
+	power: 4
+	power_2: 4
+	toughness: 4
+	toughness_2: 4
+	illustrator: ABS version
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

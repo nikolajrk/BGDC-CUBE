@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-29 16:13:09
+	time_modified: 2025-08-31 19:21:21
+	name: Johanne, Award Show Vært
+	casting_cost: 1RR
+	image: image45.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Social</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: The player whose turn it is may end the turn.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Og</error-spelling:en_US> <error-spelling:en_US>så</error-spelling:en_US> <error-spelling:en_US>videre</error-spelling:en_US> til <error-spelling:en_US>det</error-spelling:en_US> <error-spelling:en_US>næste</error-spelling:en_US>...”</i-flavor>
+	power: 3
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

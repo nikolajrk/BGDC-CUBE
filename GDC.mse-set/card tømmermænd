@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-27 17:08:37
+	time_modified: 2025-10-19 20:11:47
+	name: Tømmermænd
+	casting_cost: 1RW
+	image: image5.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Gain a <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter, then remove all <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counters from you. For each one removed, deal 1 damage to any creature or player.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-01 18:48:41
+	time_modified: 2025-10-19 20:46:17
+	name: Foredrag
+	casting_cost: 1UU
+	transformation: lesson
+	image: image72.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Lesson</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Tap up to 2 target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures. Then <kw-0><nospellcheck><key>Learn</key></nospellcheck></kw-0>.  <i-auto>(You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</i-auto>
+	flavor_text: <i-flavor>“I dag <error-spelling:en_US>vil</error-spelling:en_US> <error-spelling:en_US>jeg</error-spelling:en_US> <error-spelling:en_US>lære</error-spelling:en_US> <error-spelling:en_US>jer</error-spelling:en_US> <error-spelling:en_US>hvordan</error-spelling:en_US> man starter <error-spelling:en_US>et</error-spelling:en_US> <error-spelling:en_US>bål</error-spelling:en_US>...”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

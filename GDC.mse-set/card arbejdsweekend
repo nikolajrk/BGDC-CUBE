@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 18:06:20
+	time_modified: 2023-11-04 18:09:16
+	name: Arbejdsweekend
+	casting_cost: 3G
+	image: image128
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Search your deck for any 2 basic lands or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>UNF</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> lands and put them unto the battlefield tapped. Shuffle your deck.
+	flavor_text: <i-flavor>Inception; <error-spelling:en_US>Dette</error-spelling:en_US> er <error-spelling:en_US>arbejdweekenden</error-spelling:en_US> vi <error-spelling:en_US>lavede</error-spelling:en_US> <error-spelling:en_US>Cuben</error-spelling:en_US>.</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

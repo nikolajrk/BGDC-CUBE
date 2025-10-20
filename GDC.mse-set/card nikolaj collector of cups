@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-29 12:24:55
+	time_modified: 2023-11-17 08:32:19
+	name: Nikolaj, Collector of Cups
+	casting_cost: WUBRG
+	image: image62
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Tillid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-0><nospellcheck><key>Suspend <param-number>1</param-number>—<param-cost> <sym>W/UU/BB/RR/GG/W</sym></param-cost></key></nospellcheck></kw-0>
+		<sym-auto>G</sym-auto>: <soft-line><soft-line>Green creatures gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> this turn.<soft-line>
+		<sym-auto>U</sym-auto>: Blue creatures gain <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> this turn.
+		<sym-auto>R</sym-auto>: Red creatures gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> this turn.
+		<sym-auto>B</sym-auto>: Black creatures gain <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> this turn.
+		<sym-auto>W</sym-auto>, <sym-auto>T</sym-auto>: Put a color counter on target creature. That creature is all colors.</soft-line></soft-line></soft-line>
+	flavor_text: <i-flavor>“<error-spelling:en_US>De</error-spelling:en_US> <error-spelling:en_US>kostede</error-spelling:en_US> 15 <error-spelling:en_US>kr</error-spelling:en_US> <error-spelling:en_US>stykket</error-spelling:en_US> <error-spelling:en_US>og</error-spelling:en_US> at man <error-spelling:en_US>spurgte</error-spelling:en_US> <error-spelling:en_US>pænt</error-spelling:en_US>!”</i-flavor>
+	power: 4
+	toughness: 6
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

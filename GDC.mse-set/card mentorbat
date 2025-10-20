@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-26 17:56:01
+	time_modified: 2025-10-19 20:34:45
+	name: Mentorbat
+	casting_cost: 4
+	image: image30
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact </word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rule_text:
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mentorbat</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, attach it to target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control.
+		Equipped creature gets +2/+0. If it is Legendary, it gets +2/+0 and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> instead.
+		Whenever equipped creature attacks, destroy target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor>“Find <error-spelling:en_US>mentorbattet</error-spelling:en_US> <error-spelling:en_US>frem</error-spelling:en_US>”</i-flavor>
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

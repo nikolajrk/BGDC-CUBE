@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-10-09 21:55:31
+	time_modified: 2025-10-19 20:41:13
+	name: Daniel, Decaying Modeler
+	casting_cost: 3U
+	image: image73
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature </word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>3D</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: As long as you don’t control another 3D <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Daniel, Decaying Modeler can’t attack.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Ved</error-spelling:en_US> <error-spelling:en_US>du</error-spelling:en_US> <error-spelling:en_US>hvad</error-spelling:en_US>, <error-spelling:en_US>jeg</error-spelling:en_US> <error-spelling:en_US>prøver</error-spelling:en_US> <error-spelling:en_US>lige</error-spelling:en_US> at <error-spelling:en_US>finde</error-spelling:en_US> <error-spelling:en_US>Isak</error-spelling:en_US> <error-spelling:en_US>eller</error-spelling:en_US> <error-spelling:en_US>Kasper</error-spelling:en_US>”</i-flavor>
+	power: 6
+	toughness: 7
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-31 19:43:28
+	time_modified: 2025-10-03 21:18:30
+	name: Brætspilslageret
+	image: image125.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>UNF</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		This enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>U</sym-auto>
+		<sym-auto>4</sym-auto>, <sym-auto>T</sym-auto>: Open a Distraction.
+	flavor_text: <i-flavor><error-spelling:en_US>Iblandt</error-spelling:en_US> <error-spelling:en_US>alle</error-spelling:en_US> <error-spelling:en_US>disse</error-spelling:en_US> <error-spelling:en_US>fantastiske</error-spelling:en_US>, <error-spelling:en_US>advancerede</error-spelling:en_US>, <error-spelling:en_US>kreative</error-spelling:en_US> <error-spelling:en_US>og</error-spelling:en_US> <error-spelling:en_US>geniale</error-spelling:en_US> <error-spelling:en_US>brætspil</error-spelling:en_US>.... <error-spelling:en_US>Valgte</error-spelling:en_US> vi at <error-spelling:en_US>spille</error-spelling:en_US> <error-spelling:en_US>Loopin</error-spelling:en_US> Louie..</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

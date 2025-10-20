@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-29 14:40:12
+	time_modified: 2025-09-04 17:55:12
+	name: Omvendt Magic
+	casting_cost: B
+	image: image38.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		The next card you play will be “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Omvendt</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”.<soft-line>
+		<i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Omvendt</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> means that <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aske</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> gets to decide what the card is)</i-auto></soft-line>
+	flavor_text: <i-flavor>+45 50 40 68 88 — <error-spelling:en_US>Askes</error-spelling:en_US> <error-spelling:en_US>tlf</error-spelling:en_US>. <error-spelling:en_US>nr</error-spelling:en_US>.</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

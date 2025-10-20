@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-26 07:11:41
+	time_modified: 2025-10-05 11:10:29
+	border_color: rgb(0,0,0)
+	card_color: multicolor
+	name: Robbie, The Mad Drafter
+	casting_cost: 4
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Lyd</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: masterpiece
+	rule_text:
+		Companion - Your starting deck contains at least one of every basic land. <i-auto>(Pay <sym-auto>3</sym-auto> to put this into your hand from outside the game.)</i-auto>
+		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>
+		Your lands gain “<sym-auto>T</sym-auto>: Add <sym>R</sym>, <sym>G</sym>, <sym>B</sym>, <sym>U</sym> or <sym>W</sym>”
+	flavor_text: <i-flavor>“Robbie <error-spelling:en_US>har</error-spelling:en_US> <error-spelling:en_US>lavet</error-spelling:en_US> <error-spelling:en_US>et</error-spelling:en_US> fem-<error-spelling:en_US>farvet</error-spelling:en_US>, 80 <error-spelling:en_US>kort</error-spelling:en_US> deck... <error-spelling:en_US>og</error-spelling:en_US> <error-spelling:en_US>det</error-spelling:en_US> <error-spelling:en_US>fungere</error-spelling:en_US> <error-spelling:en_US>faktisk</error-spelling:en_US> <error-spelling:en_US>godt</error-spelling:en_US>!”</i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: NRO
+	card_code_text: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

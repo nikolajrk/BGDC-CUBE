@@ -1,0 +1,32 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: true
+	styling_data:
+		frames: 
+		custom_symbol: 
+		other_options: auto nyx crowns, pride pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-11-04 13:48:21
+	time_modified: 2023-11-04 13:50:01
+	name: Kira, Nattevagt
+	casting_cost: 2R
+	image: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Human</word-list-race> <word-list-class>Nattevagt</word-list-class><soft> </soft><word-list-class></word-list-class>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck>Flash</nospellcheck></kw-a>, <kw-a><nospellcheck>Vigilance</nospellcheck></kw-a>, <kw-a><nospellcheck>Menace</nospellcheck></kw-a>
+		When this creature enters the battlefield, tap all <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

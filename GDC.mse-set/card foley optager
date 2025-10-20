@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-10-30 09:11:35
+	time_modified: 2023-10-30 09:13:09
+	name: Foley Optager
+	casting_cost: 3
+	image: image90
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text: When attackers are declared against you, you may pay <sym-auto>2</sym-auto>. If you do, create a token that is a copy of target attacking creature targeting you. That token blocks the targeted attacking creature. Sacrifice the token at the end of combat. 
+	flavor_text: <i-flavor>“<error-spelling:en_US>Hov</error-spelling:en_US>, <error-spelling:en_US>der</error-spelling:en_US> var <error-spelling:en_US>vidst</error-spelling:en_US> <error-spelling:en_US>batterisyre</error-spelling:en_US> i den her”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

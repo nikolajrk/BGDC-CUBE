@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-09-26 23:53:38
+	time_modified: 2025-10-20 07:32:11
+	name: Chancen?
+	casting_cost: B
+	image: image41
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: You and the target opponent secretly chooses a number between 1 and </sym>1<sym>0, and then both players reveal them simultaneously. If both players chose the same number, the opponent loses half their life, rounded up. If both players chose different numbers, the opponent can choose to repeat the process. If they choose to repeat the process, the upper bound gets lowered by one, but not less than 2. The roles of the players also switch.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-28 21:59:04
+	time_modified: 2025-10-05 18:51:45
+	name: Malthe, Pride-Bagmand
+	casting_cost: WBG
+	image: image161.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Programmering</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Malthe</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Pride-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bagmand</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> becomes tapped, create a Treasure and put a +1/+1 counter on each white creature.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Hvidvasker</error-spelling:en_US> til den store <error-spelling:en_US>guldmedalje</error-spelling:en_US>” — So Far So <error-spelling:en_US>Fus</i-flavor></error-spelling:en_US>
+	power: 3
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

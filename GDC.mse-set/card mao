@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		frames: 
+		other_options: auto nyx crowns, pride pinlines
+		d20_dividers: all breaks
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-09-28 21:59:04
+	time_modified: 2025-10-19 20:43:14
+	name: Mao
+	casting_cost: UR
+	image: image150.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever you cast a spell, roll a d4:
+		1 — Return the spell to your hand. Draw a card. <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ulovligt</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>kort</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>
+		2-3 — Do nothing
+		4 — Draw a card. <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Straf</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> for <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>ikke</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> at <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sige</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lugi</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>gugi</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

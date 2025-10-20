@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-split-fusable
+	stylesheet_version: 2024-09-03
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-09-26 06:54:06
+	time_modified: 2025-10-20 07:39:51
+	name: E-girl Bathwater
+	name_2: Hot Stuff
+	casting_cost: GG
+	casting_cost_2: UU
+	image: image20
+	image_2: image_21
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Create 2 Drinks. <i-auto>(You choose between either a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Sportscola</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Monner</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>
+	rule_text_2: Deal 5 damage to target creature
+	rule_text_3: <kw-A><nospellcheck><key>Fuse</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast one or both halves of this card from your hand.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>You know you want it.</i-flavor>
+	flavor_text_2: <i-flavor>If your opponent isn’t already hot, they are definitely hot now.</i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: NRO
+	illustrator_2: LTTN
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

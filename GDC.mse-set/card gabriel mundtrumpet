@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-01 22:18:36
+	time_modified: 2025-09-18 20:11:32
+	name: Gabriel, Mundtrumpet
+	casting_cost: 2U
+	image: image65.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Lyd</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Battle cry</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		<sym-auto>UU</sym-auto>: Put a “<kw-0><nospellcheck><key>Battle cry</key></nospellcheck></kw-0>” counter on target creature without <kw-0><nospellcheck><key>Battle cry</key></nospellcheck></kw-0>. They gain <kw-0><nospellcheck><key>Battle cry</key></nospellcheck></kw-0>.
+	flavor_text: <i-flavor>“Brr Brr Brr Br Br Brr Brr <error-spelling:en_US>Brrrr</error-spelling:en_US>” — <error-spelling:en_US>Alle</error-spelling:en_US> <error-spelling:en_US>Arrangøre</error-spelling:en_US> 2025</i-flavor>
+	power: 1
+	toughness: 5
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-29 13:13:42
+	time_modified: 2025-10-20 07:39:57
+	name: Er du på niveau?
+	casting_cost: RW
+	image: image34.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Each player sacrifices all their Drinks, and gains a <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter for each one sacrificed.
+		<soft-line><soft-line>Draw a card.</soft-line></soft-line>
+	flavor_text: <i-flavor>Christian, 2025, Slog <error-spelling:en_US>næsten</error-spelling:en_US> <error-spelling:en_US>AU’s</error-spelling:en_US> <error-spelling:en_US>rekord</error-spelling:en_US> i <error-spelling:en_US>deres</error-spelling:en_US> <error-spelling:en_US>eget</error-spelling:en_US> <error-spelling:en_US>spil</error-spelling:en_US>.</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

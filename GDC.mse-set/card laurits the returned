@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 11:27:28
+	time_modified: 2025-08-27 00:47:26
+	name: Laurits, The Returned
+	casting_cost: 2B
+	image: image100
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature </word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Programmør</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		This creature enter the battlefield tapped.
+		At the end of your turn, if <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Laurits</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, the returned, does not have a +1/+1 counter on him, put a -1/-1 counter on target creature.
+		<kw-A><nospellcheck><key>Undying</key></nospellcheck>”<atom-reminder-expert> <i-auto>(When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

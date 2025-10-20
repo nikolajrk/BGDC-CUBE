@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-17 07:25:39
+	time_modified: 2025-09-18 20:20:41
+	name: Robbie, lyd-mesteren
+	casting_cost: 2U
+	image: image139.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Lyd</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Mentor</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)</i-auto></atom-reminder-expert></kw-A>
+		Whenever Robbie <kw-0><nospellcheck><key>Mentor</key></nospellcheck></kw-0> another <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature, also put your choice of a <kw-0><nospellcheck><key>First strike</key></nospellcheck></kw-0> or <kw-0><nospellcheck><key>Vigilance</key></nospellcheck></kw-0> counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

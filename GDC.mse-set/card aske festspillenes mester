@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-13 01:56:15
+	time_modified: 2025-10-19 20:11:08
+	name: Aske, Festspillenes mester
+	casting_cost: 3RW
+	image: image115.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>2D</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of combat, if you have 5 or more <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counters, each creature you control <kw-0><nospellcheck><key>explores</key></nospellcheck></kw-0> <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Diamant</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>. If you have 10 or more, creatures you control gain <kw-0><nospellcheck><key>horsemanship</key></nospellcheck></kw-0> until end of turn. <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Væddeløb</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>
+	flavor_text: <i-flavor>“<error-spelling:en_US>Da</error-spelling:en_US> <error-spelling:en_US>Aske</error-spelling:en_US> <error-spelling:en_US>startede</error-spelling:en_US> <error-spelling:en_US>et</error-spelling:en_US> <error-spelling:en_US>spil</error-spelling:en_US> <error-spelling:en_US>udenfor</error-spelling:en_US> kl 2, <error-spelling:en_US>vidste</error-spelling:en_US> <error-spelling:en_US>jeg</error-spelling:en_US> <error-spelling:en_US>det</error-spelling:en_US> <error-spelling:en_US>ville</error-spelling:en_US> <error-spelling:en_US>gå</error-spelling:en_US> <error-spelling:en_US>galt</error-spelling:en_US>...” — Christian     </i-flavor>
+	power: 4
+	toughness: 6
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

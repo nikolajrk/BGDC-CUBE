@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-17 07:25:39
+	time_modified: 2025-09-24 20:20:43
+	name: Deltager, der kun vil programmere
+	casting_cost: 1W
+	image: image121.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>2D</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym-auto>T</sym-auto>: This gains the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> type until end of turn.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Jeg</error-spelling:en_US> <error-spelling:en_US>skrev</error-spelling:en_US> <error-spelling:en_US>jeg</error-spelling:en_US> <error-spelling:en_US>kun</error-spelling:en_US> <error-spelling:en_US>ville</error-spelling:en_US> <error-spelling:en_US>være</error-spelling:en_US> <error-spelling:en_US>Programmering</error-spelling:en_US> <error-spelling:en_US>da</error-spelling:en_US> <error-spelling:en_US>jeg</error-spelling:en_US> <error-spelling:en_US>sendte</error-spelling:en_US> min <error-spelling:en_US>ansøgning</error-spelling:en_US>” — 2D <error-spelling:en_US>Deltager</error-spelling:en_US>, <error-spelling:en_US>der</error-spelling:en_US> <error-spelling:en_US>valgte</error-spelling:en_US> <error-spelling:en_US>ikke</error-spelling:en_US> at <error-spelling:en_US>tegne</error-spelling:en_US> <error-spelling:en_US>noget</error-spelling:en_US>, men <error-spelling:en_US>kun</error-spelling:en_US> <error-spelling:en_US>programmere</error-spelling:en_US> <error-spelling:en_US>shaders</error-spelling:en_US> i <error-spelling:en_US>stedet</error-spelling:en_US>.</i-flavor>
+	power: 3
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2023-09-25 13:48:37
+	time_modified: 2025-09-28 22:14:29
+	name: Katrine, Jovial Dancer
+	casting_cost: BRGW
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Koordinator</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-0><nospellcheck><key>Suspend <param-number>1</param-number>—<param-cost><sym-auto>3B</sym-auto></param-cost></key></nospellcheck></kw-0>
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Katrine</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, choose target creature. That creature blocks <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Katrine</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> if able.
+		Creatures you control with 2 or more colors must be blocked if able.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Jeg</error-spelling:en_US> er <error-spelling:en_US>ikke</error-spelling:en_US> god til at <error-spelling:en_US>danse</error-spelling:en_US>” - <error-spelling:en_US>Katrine</error-spelling:en_US>, <error-spelling:en_US>som</error-spelling:en_US> er god til at <error-spelling:en_US>danse</i-flavor></error-spelling:en_US>
+	power: 3
+	toughness: 5
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

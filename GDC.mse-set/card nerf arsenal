@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-10-03 20:59:10
+	time_modified: 2025-10-19 20:21:00
+	name: NERF Arsenal
+	image: image66
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>NERF </word-list-land><atom-sep> </atom-sep><word-list-land>UNF</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		This enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>B</sym-auto>
+		<sym-auto>4</sym-auto>, <sym-auto>T</sym-auto>: Create a NERF Gun.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Købt</error-spelling:en_US> i <error-spelling:en_US>fineste</error-spelling:en_US> stand <error-spelling:en_US>på</error-spelling:en_US> <error-spelling:en_US>DBA</error-spelling:en_US>”</i-flavor>
+	illustrator: NRO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2023-11-04 11:25:45
+	time_modified: 2025-10-20 07:31:18
+	name: Jesper, The Honorary Deltager
+	casting_cost: 1WU
+	image: image99
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Deltager</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Lyd</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: Whenever this creature attacks, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. If you have a full group, create 4 instead.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Det</error-spelling:en_US> er <error-spelling:en_US>anden</error-spelling:en_US> gang <error-spelling:en_US>Jesper</error-spelling:en_US> <error-spelling:en_US>vinder</error-spelling:en_US> <error-spelling:en_US>prisen</error-spelling:en_US> for <error-spelling:en_US>bedste</error-spelling:en_US> <error-spelling:en_US>spil</error-spelling:en_US>... <error-spelling:en_US>som</error-spelling:en_US> <error-spelling:en_US>arrangør</error-spelling:en_US>”</i-flavor>
+	power: 2
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

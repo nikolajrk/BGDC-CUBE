@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-01 18:53:34
+	time_modified: 2025-09-01 22:25:16
+	name: Lampemanden Gametest
+	casting_cost: UB
+	image: image76.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Choose a creature. That creature cannot attack this turn <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>bange</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>. Then Choose 2 other creatures. Tap them. <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>dør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> a grin)</i-auto>. 
+	flavor_text: <i-flavor>“<error-spelling:en_US>Jeg</error-spelling:en_US> <error-spelling:en_US>hader</error-spelling:en_US> <error-spelling:en_US>gyserspil</error-spelling:en_US>” — Daniel</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
