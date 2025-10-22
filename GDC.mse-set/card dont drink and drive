@@ -7,7 +7,7 @@ card:
 	time_created: 2025-08-27 17:33:43
 	time_modified: 2025-10-20 07:39:22
 	special_text:
-		
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 		I — Create a Drink. Creatures you control gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
 		II — You may sacrifice a drink to tap target creature.
 		III — If you control a drink, lose the game. Otherwise, gain a <kw-0><nospellcheck><key>Party</key></nospellcheck></kw-0> Counter.

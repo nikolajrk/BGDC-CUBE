@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-08-29 13:13:42
-	time_modified: 2025-10-20 07:39:57
+	time_modified: 2025-10-22 22:42:12
 	name: Er du på niveau?
 	casting_cost: RW
 	image: image34.png
@@ -19,8 +19,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Each player sacrifices all their Drinks, and gains a <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter for each one sacrificed.
-		<soft-line><soft-line>Draw a card.</soft-line></soft-line>
+		Create a drink, then choose one:
+		— Sacrifice a drink. Gain a <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter, draw a card, and lose 1 life. <i-auto>(Op <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>på</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>niveau</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>
+		— Remove any number of <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counters. Create that many drinks. <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Giv</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> op)</i-auto>
 	flavor_text: <i-flavor>Christian, 2025, Slog <error-spelling:en_US>næsten</error-spelling:en_US> <error-spelling:en_US>AU’s</error-spelling:en_US> <error-spelling:en_US>rekord</error-spelling:en_US> i <error-spelling:en_US>deres</error-spelling:en_US> <error-spelling:en_US>eget</error-spelling:en_US> <error-spelling:en_US>spil</error-spelling:en_US>.</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

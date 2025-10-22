@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-08-30 17:14:12
-	time_modified: 2025-10-20 07:48:57
+	time_modified: 2025-10-22 22:54:41
 	extra_data:
 		magic-m15-mainframe-dfc:
 			front_color_hint: De
@@ -13,12 +13,12 @@ card:
 		<i-auto>(You may tap a creature that shares a type with a task, to develop it as a sorcery. When all tasks are developed, transform.)</i-auto>
 		<b>3D:</b>
 		Create a 3/3 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisse</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
-		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:</b>
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisser</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> have <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>.
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:
+		</b>At the beginning of your upkeep, create a 1/1 Zombie.
 		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:</b> 
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisser</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> have <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisser</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> have <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>.
 		<b>2D:</b>
-		Non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisse</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures has <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		Zombies have <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
 	card_color_2: white, blue, black, red, green, artifact, multicolor, horizontal
 	name: Nissebræk-spillet
 	name_2: Snuresvamp
@@ -36,8 +36,9 @@ card:
 	chapter_text: <i-auto>(You may tap a creature that shares a type with a task, to develop it as a sorcery. When all tasks are developed, transform.)</i-auto>
 	rule_text: 
 	rule_text_2:
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisser</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> have <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
-		Non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisse</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures have <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisser</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> have <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>.
+		Zombies have <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
+		At the beginning of your upkeep, create a 1/1 Zombie.
 		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Snuresvamp</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Gain 3 life. Destroy all non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisse</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures. 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor>“<error-spelling:en_US>Det</error-spelling:en_US> var <error-spelling:en_US>virkelig</error-spelling:en_US> <error-spelling:en_US>et</error-spelling:en_US> <error-spelling:en_US>godt</error-spelling:en_US> <error-spelling:en_US>spil</error-spelling:en_US>” — Thomas, om <error-spelling:en_US>hans</error-spelling:en_US> <error-spelling:en_US>eget</error-spelling:en_US> <error-spelling:en_US>spil</i-flavor></error-spelling:en_US>
@@ -45,14 +46,14 @@ card:
 		<b>3D:</b>
 		Create a 3/3 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisse</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
 	level_2_text:
-		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:</b>
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisser</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> have <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>.
+		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Programmering</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:
+		</b>At the beginning of your upkeep, create a 1/1 Zombie.
 	level_3_text:
 		<b><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lyd</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>:</b> 
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisser</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> have <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisser</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> have <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>.
 	level_4_text:
 		<b>2D:</b>
-		Non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nisse</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures has <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		Zombies have <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
 	power_2: 
 	toughness_2: 
 	illustrator: ABS version

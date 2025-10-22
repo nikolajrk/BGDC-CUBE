@@ -436,16 +436,20 @@ include_file: card no-name.6
 include_file: card no-name.7
 include_file: card no-name.8
 include_file: card no-name.9
-include_file: card no-name.10
+include_file: card hytteturshytte
 include_file: card gdc 2083
-include_file: card no-name.11
+include_file: card no-name.10
 include_file: card slik-poker
 include_file: card duerne slipper ind
 include_file: card tryk-tema
 include_file: card programmering
 include_file: card 3d
 include_file: card 2d
-include_file: card no-name.12
+include_file: card no-name.11
+include_file: card rosengårdsskolen
+include_file: card sdu
+include_file: card cassiopeia
+include_file: card dtu
 version_control:
 	type: none
 apprentice_code: 

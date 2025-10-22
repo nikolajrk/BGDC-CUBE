@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-11-04 16:24:10
-	time_modified: 2025-10-19 20:09:04
+	time_modified: 2025-10-22 22:47:17
 	name: Festmåltid
 	casting_cost: RW
 	image: image119
@@ -13,9 +13,9 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rule_text:
-		At the beginning of your turn, everyone rolls a d20 and add </sym>X<sym> to the result where X is the number of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures that they control.
-		The player with the highest roll gains 1 <kw-a><nospellcheck><key>food toke<param-*s>n</param-*s></key></nospellcheck></kw-a>, 1 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Sportscola</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> token and gains a <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter.
-	flavor_text: <i-flavor>“<error-spelling:en_US>Arrangører</error-spelling:en_US> <error-spelling:en_US>får</error-spelling:en_US> <error-spelling:en_US>stadig</error-spelling:en_US> <error-spelling:en_US>ikke</error-spelling:en_US> <error-spelling:en_US>lov</error-spelling:en_US> til at <error-spelling:en_US>rulle</error-spelling:en_US>”</i-flavor>
+		At the beginning of your end step, each player creates a Food.
+		Sacrifice <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Festmåltid</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Sacrifice X Food: You gain X <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counters. For each <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter you have, create a drink. <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Gå</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>ovenpå</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>
+	flavor_text: <i-flavor>“<error-spelling:en_US>Arrangører</error-spelling:en_US> <error-spelling:en_US>får</error-spelling:en_US> <error-spelling:en_US>stadig</error-spelling:en_US> <error-spelling:en_US>ikke</error-spelling:en_US> <error-spelling:en_US>lov</error-spelling:en_US> til at <error-spelling:en_US>rulle</error-spelling:en_US> om at <error-spelling:en_US>starte</error-spelling:en_US>.”</i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
