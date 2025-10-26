@@ -450,6 +450,10 @@ include_file: card rosengårdsskolen
 include_file: card sdu
 include_file: card cassiopeia
 include_file: card dtu
+include_file: card kontroversiel frokostgænger
+include_file: card askes liggeunderlag
+include_file: card morgenmonner
+include_file: card nattevagtssnacks
 version_control:
 	type: none
 apprentice_code: 

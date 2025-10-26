@@ -10,7 +10,7 @@ card:
 	time_created: 2025-09-28 21:59:04
 	time_modified: 2025-09-28 22:09:48
 	special_text:
-		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		
 		I — Each player sacrifices half their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures, rounded up. <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangørflugt</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>
 		II — Each player may create a copy of a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> they control. The copies are also Artifacts. <i-auto>(Online)</i-auto>
 		III — Put a +1/+1 counter on each artifact creature you control <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Minecraft</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>awardshow</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>

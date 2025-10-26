@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: auto nyx crowns, pride pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-10-23 21:57:20
+	time_modified: 2025-10-23 22:02:04
+	name: Kontroversiel Frokostgænger
+	casting_cost: X1RG
+	image: image168.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Ravenous</key></nospellcheck><atom-reminder-expert> <i-auto>(This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)</i-auto></atom-reminder-expert></kw-A>
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kontroversiel</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Frokostgænger</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks or blocks, create a Food and flip a coin. If you win, this gets +2/+2 until end of turn. If you lose, this gets <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: ISS
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

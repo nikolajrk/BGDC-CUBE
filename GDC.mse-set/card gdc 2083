@@ -12,7 +12,7 @@ card:
 	time_created: 2025-10-05 19:00:23
 	time_modified: 2025-10-19 20:06:51
 	special_text:
-		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		
 		Put a -1/-1 counter on all <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures. <soft-line>
 		Destroy all <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures. You create a 1/1 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> for each <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> destroyed.</soft-line>
 		Repeat the first ability again.

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-09-12 23:18:09
-	time_modified: 2025-10-19 20:37:47
+	time_modified: 2025-10-23 21:52:07
 	name: Balade!
 	casting_cost: GW
 	image: image108.png
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Remove all +1/+1 counters from target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control. Then for each one removed, choose one. You may choose the same mode more than once:
+		Remove all +1/+1 counters from a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control. For each one removed, choose one. You may choose the same mode more than once:
 		— Deal 2 Damage to an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
 		— Create a 1/1 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Token.
 		— Destroy an artifact.

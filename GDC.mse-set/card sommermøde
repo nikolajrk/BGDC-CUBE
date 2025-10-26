@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-09-25 13:24:48
-	time_modified: 2025-08-31 18:52:48
+	time_modified: 2025-10-23 21:44:27
 	card_color: multicolor
 	name: Sommermøde
 	casting_cost: 
@@ -24,7 +24,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym>T</sym>: Add <sym-auto>1</sym-auto>
-		<sym-auto>T</sym-auto>: Target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature loses its <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> type, and gains the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> type.
+		<sym-auto>T</sym-auto>: Target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> loses its <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> type, and gains the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> type until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: NRO
 	card_code_text: 
