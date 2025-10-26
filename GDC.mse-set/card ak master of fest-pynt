@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-10-09 21:38:27
-	time_modified: 2025-10-19 20:11:01
+	time_modified: 2025-10-26 14:21:00
 	name: AK, Master of Fest-pynt
 	casting_cost: 1RW
 	image: image63
@@ -15,9 +15,10 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
 		Other <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures you control gain: “<sym-auto>T</sym-auto>: Gain a <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter.”
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ak</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Master of Fest-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>pynt</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> has +1/+1 for each <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter you have.
 	flavor_text: <i-flavor></i-flavor>
-	power: 2
-	toughness: 3
+	power: 1
+	toughness: 2
 	illustrator: NRO
 	card_code_text: 
 	card_code_text_2: 

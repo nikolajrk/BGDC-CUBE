@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-11-04 10:16:39
-	time_modified: 2025-09-12 21:30:11
+	time_modified: 2025-10-26 13:56:36
 	name: Christian, Den Første Måge
 	casting_cost: 3UB
 	image: image92
@@ -11,7 +11,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bird</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Arrangør</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>2D</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Bird</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-A><nospellcheck><key>Battle cry</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
 		Birds you control have <kw-0><nospellcheck><key>Battle cry</key></nospellcheck></kw-0>. 

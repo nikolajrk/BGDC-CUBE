@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-09-27 00:22:26
-	time_modified: 2025-09-29 22:49:25
+	time_modified: 2025-10-26 14:22:15
 	name: Fortvivlet deltager
 	casting_cost: 2B
 	image: image46
@@ -11,7 +11,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature </word-list-type-en>
-	sub_type: <word-list-race-en>Deltager</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Lyd</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fortvivlet</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, create a Merge Conflict token.
 		Sacrifice <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fortvivlet</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Deltager</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Deal X damage  to target player or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, where X is the number of Merge Conflicts on the battlefield.

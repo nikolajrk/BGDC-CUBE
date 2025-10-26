@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-11-04 13:18:29
-	time_modified: 2025-08-27 00:44:29
+	time_modified: 2025-10-26 14:22:33
 	name: Hjælpeunderviser
 	casting_cost: 1W
 	image: image111
@@ -11,7 +11,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Deltager</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Lyd</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text: <sym-auto>W</sym-auto>: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hjælpeunderviser</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> gets +1/+1 and becomes an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>arrangør</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> in addition to its other types until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

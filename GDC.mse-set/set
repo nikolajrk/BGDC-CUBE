@@ -454,6 +454,7 @@ include_file: card kontroversiel frokostgænger
 include_file: card askes liggeunderlag
 include_file: card morgenmonner
 include_file: card nattevagtssnacks
+include_file: card halfdan ny kasserer
 version_control:
 	type: none
 apprentice_code: 
