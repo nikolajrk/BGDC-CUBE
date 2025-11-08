@@ -455,6 +455,9 @@ include_file: card askes liggeunderlag
 include_file: card morgenmonner
 include_file: card nattevagtssnacks
 include_file: card halfdan ny kasserer
+include_file: card skægkræ
+include_file: card no-name.12
+include_file: card deltager der faktisk blev til noget
 version_control:
 	type: none
 apprentice_code: 

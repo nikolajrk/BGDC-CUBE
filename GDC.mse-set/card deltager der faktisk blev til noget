@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-11-08 14:18:14
+	time_modified: 2025-11-08 14:25:07
+	name: Deltager, der faktisk blev til noget
+	casting_cost: U
+	image: image171.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Deltager</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Lyd</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Suspend <param-number>2</param-number>—<param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Rather than cast this card from your hand, you may pay <param-mana><sym-auto>1U</sym-auto></param-mana> and exile it with <param-number>two</param-number> time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</i-auto></atom-reminder-expert></kw-A>
+		If was cast from from exile, it enters with three +1/+1 counters on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

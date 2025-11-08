@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-10-23 22:19:22
-	time_modified: 2025-10-26 00:10:05
+	time_modified: 2025-10-27 22:36:23
 	name: Morgenmonner
 	casting_cost: 3U
 	image: image164.png
@@ -18,9 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text:
-		
-		At the beginning of your upkeep, create a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Monner</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. <i-auto>(A <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Monner</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> is an artifact token with “<sym-auto>T</sym-auto>, Sacrifice this: Target creature gets +1/+1 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.”.)</i-auto>
+	rule_text: At the beginning of your upkeep, create a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Monner</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. <i-auto>(A <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Monner</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> is an artifact token with “<sym-auto>T</sym-auto>, Sacrifice this: Target creature gets +1/+1 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.”.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-10-26 13:36:52
-	time_modified: 2025-10-26 14:27:19
+	time_modified: 2025-11-08 14:21:59
 	name: Halfdan, Ny Kasserer 
 	casting_cost: 2W
 	image: image169.png
@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Halfdan</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ny</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kasserer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, choose one:
-		— Create a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bilag</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <i-auto>(work)</i-auto>
-		— Gain a <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter, then get a Treasure for each <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter you have. <i-auto>(Bank <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>alle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> i Mario Kart, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>og</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> tag <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>deres</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>chantonner</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>
+		— Create a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bilag</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. <i-auto>(work)</i-auto>
+		— Gain a <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter, then create a Treasure for each <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0> counter you have. <i-auto>(Bank <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>alle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> i Mario Kart, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>og</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> tag <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>deres</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>chantonner</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
